@@ -21,14 +21,15 @@
 <br>
 
 ## 목차 
-[(공통) requirements.txt에 저장된 환경 설치하기](# (공통) requirements.txt에 저장된 환경 설치하기)
+[requirements.txt에 저장된 환경 설치하기](#requirements.txt에 저장된 환경 설치하기)
+
 - [Windows에서 가상환경 생성 및 실행](#windows에서-가상환경-생성-및-실행)
 	-  [Windows에서 장고(Django) 설치 및 환경설정](#windows에서-장고django-설치-및-환경설정)
 - [MAC에서 가상환경 생성 및 실행](#mac에서-가상환경-생성-및-실행) 
 	- [MAC 장고(Django) 설치 및 환경설정](#mac-장고django-설치-및-환경설정) 
 
 
-# (공통) requirements.txt에 저장된 환경 설치하기
+# requirements.txt에 저장된 환경 설치하기
 프로젝트 파일 내부에 있는 requirements.txt를 설치하여 개발환경을 동기화 시킵니다.
 
 1. 현재 설치된 패키지를 `requirements.txt`에 저장하기
