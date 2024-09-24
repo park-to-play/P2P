@@ -21,7 +21,7 @@
 <br>
 
 ## 목차 
-[requirements.txt에 저장된 환경 설치하기](#requirements.txt에 저장된 환경 설치하기)
+[requirements.txt에 저장된 환경 설치하기](#requirements.txt에-저장된-환경-설치하기)
 
 - [Windows에서 가상환경 생성 및 실행](#windows에서-가상환경-생성-및-실행)
 	-  [Windows에서 장고(Django) 설치 및 환경설정](#windows에서-장고django-설치-및-환경설정)
@@ -42,124 +42,38 @@ pip install -r requirements.txt
 ```
 
 
+
+
+
+<br>
+
 # Windows에서 가상환경 생성 및 실행
 
-### 1. pyenv 설치 및 python 설치
-* pyenv 설치하기
-* pyenv는 여러 파이썬 버전을 쉽게 바꾸어 쓸 수 있게 도와줍니다.
-
-```bash
-git clone https://github.com/pyenv/pyenv.git %USERPROFILE%/.pyenv
-```
-
-* 환경변수 설정:
-
-1) `내 컴퓨터 > 속성 > 고급 시스템 설정 > 환경 변수`로 이동  
-2) 사용자 변수에 다음을 추가:
-
-   * 변수 이름: `PYENV`
-   * 변수 값: `%USERPROFILE%/.pyenv`
-
-3) 시스템 변수에서 `Path`를 선택하고 편집을 클릭. `새로 만들기`를 클릭하고 `%PYENV%\bin` 추가 후 확인.
-
-4) 명령 프롬프트에서 아래 명령을 실행해 환경 설정 완료:
-
-```bash
-pyenv install --version
-```
-
-<br>
-
-### 2. python 설치하기
-
-```bash
-pyenv install -list
-```
-
-<br>
-
-### 3. python 설치 및 설치 후 버전 확인하기
+### 1. conda 가상환경 생성 및  파이썬 버전 확인하기
 * 여기서는 3.11.9로 통일합니다.
+* 가상환경명은 p2p-env입니다.
 
 ```bash
-pyenv install 3.11.9
-pyenv versions 
-```
-![](https://i.imgur.com/pQl0VHQ.png)
-새로 설치된 3.11.9
-
-<br>
-
-### 4. 실제 환경에서 사용할 버전 선택하기
-
-```bash
-$ pyenv shell 3.11.9
-```
-![](https://i.imgur.com/H4kcg3G.png)
-
-<br>
-
-### 5. virtualenv 설치
-* 가상 환경을 생성하고 사용할 수 있도록 해줍니다.
-
-```bash
-git clone https://github.com/pyenv/pyenv-virtualenv.git %USERPROFILE%/.pyenv/plugins/pyenv-virtualenv
+conda create -n <환경명> python=<버전(ex:3.5이나 3.7 등)>
+conda create -n p2p-env python=3.11.9
 ```
 
 <br>
 
-### 6. 가상 환경 생성하기
+### 2. 가상 환경 실행 명령
 
 ```bash
-pyenv virtualenv [파이썬 버전] [가상 환경 이름]
-pyenv virtualenv 3.11.9 p2p-env
+conda activate 가상환경명
+conda activate p2p-env
 ```
-가상환경의 이름은 임의로 생성해도 됩니다.
+
 
 <br>
 
-### 7. 가상 환경이 생성 되었는지 확인을 한다.
+### 3. 가상 환경 해제 명령
 
 ```bash
-pyenv versions
-```
-![](https://i.imgur.com/SZUiWis.png)
-
-<br>
-
-### 8. 가상 환경 실행 명령
-
-```bash
-pyenv activate [가상 환경 이름]
-pyenv activate p2p-env
-```
-
-### 8-1. 가상 환경 실행 오류 발생 시
-
-1) 설정 파일을 열기  
-   `C:\Users\<사용자명>\.pyenv\pyenv-win\version\pyenv.vbs` 파일을 텍스트 편집기로 엽니다.
-
-2) 다음 내용을 추가:
-
-```bash
-export PATH="$HOME/.pyenv/bin:$PATH" 
-eval "$(pyenv init --path)" 
-eval "$(pyenv init -)" 
-eval "$(pyenv virtualenv-init -)"
-```
-
-3) 명령 프롬프트를 다시 실행 후, 가상 환경을 다시 활성화
-
-``` bash
-pyenv activate p2p-env
-```
-
-<br>
-
-### 9. 가상 환경 해제 명령
-
-```bash
-pyenv deactivate
+conda deactivate
 ```
 
 <br>
@@ -169,8 +83,8 @@ pyenv deactivate
 ### 1. 가상환경 실행
 
 ```bash
-pyenv activate [가상 환경 이름]
-pyenv activate p2p-env
+conda activate [가상 환경 이름]
+conda activate p2p-env
 ```
 
 <br>
@@ -240,9 +154,13 @@ python manage.py runserver
 
 
 
+<br>
+
 
 
 # MAC에서 가상환경 생성 및 실행
+
+* windows와 같이 conda로 실행해도 무방합니다.
 
 ### 1. pyenv 설치 및 python 설치
 
