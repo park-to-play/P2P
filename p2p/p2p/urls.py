@@ -17,6 +17,12 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path
 
+
+"""
+Django 프로젝트의 URL 경로와 그 경로에 대한 처리를 정의하는 리스트입니다.
+모든 Django 프로젝트는 urls.py 파일에 이 리스트를 정의해야 합니다.
+"""
+
 urlpatterns = [
     path("admin/", admin.site.urls),
 ]

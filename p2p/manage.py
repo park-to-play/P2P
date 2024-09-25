@@ -4,6 +4,9 @@ import os
 import sys
 
 
+# manage.py: Django 프로젝트의 시작점. 프로젝트와 관련된 명령어를 실행할 때 사용합니다.
+# Django가 프로젝트를 시작할 때 자동으로 생성하는 파일입니다.
+# 프로젝트를 진행하면서 이 파일 자체를 수정할 일은 거의 없습니다.
 def main():
     """Run administrative tasks."""
     os.environ.setdefault("DJANGO_SETTINGS_MODULE", "p2p.settings")
