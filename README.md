@@ -29,25 +29,12 @@
 	- [MAC 장고(Django) 설치 및 환경설정](#mac-장고django-설치-및-환경설정) 
 
 
-# requirements.txt에 저장된 환경 설치하기
-프로젝트 파일 내부에 있는 requirements.txt를 설치하여 개발환경을 동기화 시킵니다.
-
-1. 현재 설치된 패키지를 `requirements.txt`에 저장하기
-```bash
-pip freeze > requirements.txt
-```
-2. 저장된 환경을 설치하기
-``` bash
-pip install -r requirements.txt
-```
-
-
-
-
 
 <br>
 
 # Windows에서 가상환경 생성 및 실행
+
+**cmd**에서 실행 불가 시, **Anaconda Prompt**에서 실행합니다.
 
 ### 1. conda 가상환경 생성 및  파이썬 버전 확인하기
 * 여기서는 3.11.9로 통일합니다.
@@ -115,7 +102,6 @@ python3 -m pip install --upgrade pip
 
 ```bash
 pip install django
-pip3 install django
 ```
 
 <br>
@@ -124,7 +110,6 @@ pip3 install django
 
 ```bash
 python -m django --version
-python3 -m django --version
 ```
 ![](https://i.imgur.com/mebeugF.png)
 
@@ -141,7 +126,6 @@ django-admin startproject p2p
 
 ### 7. 생성한 폴더로 이동 후 서버 실행
 ```bash
-python3 manage.py runserver
 python manage.py runserver
 ```
 ![](https://i.imgur.com/fmQsmUO.png)
@@ -156,11 +140,29 @@ python manage.py runserver
 
 <br>
 
+# requirements.txt에 저장된 환경 설치하기
 
+위 과정을 마친 후 프로젝트 파일 내부에 있는 requirements.txt를 설치하여 개발환경을 동기화 시킵니다.
+
+1. 현재 설치된 패키지를 `requirements.txt`에 저장하기
+
+```bash
+pip freeze > requirements.txt
+```
+
+2. 저장된 환경을 설치하기
+
+``` bash
+pip install -r requirements.txt
+```
+
+
+
+<br>
 
 # MAC에서 가상환경 생성 및 실행
 
-* windows와 같이 conda로 실행해도 무방합니다.
+* windows와 같이 **conda로 실행해도 무방**합니다.
 
 ### 1. pyenv 설치 및 python 설치
 
@@ -305,7 +307,7 @@ cd p2p
 ### 3. django 설치 전 pip upgrade
 
 ```bash
-python3 -m pip install --upgrade pip
+python -m pip install --upgrade pip
 ```
 
 <br>
@@ -314,7 +316,6 @@ python3 -m pip install --upgrade pip
 
 ```bash
 pip install django
-pip3 install django
 ```
 
 <br>
@@ -323,7 +324,6 @@ pip3 install django
 
 ```bash
 python -m django --version
-python3 -m django --version
 ```
 ![](https://i.imgur.com/mebeugF.png)
 
@@ -340,7 +340,6 @@ django-admin startproject p2p
 
 ### 7. 생성한 폴더로 이동 후서버 실행
 ```bash
-python3 manage.py runserver
 python manage.py runserver
 ```
 ![](https://i.imgur.com/fmQsmUO.png)
@@ -353,4 +352,24 @@ python manage.py runserver
 ![](https://i.imgur.com/SP8tlOI.png)
 
 
+
+
+
+<br>
+
+# requirements.txt에 저장된 환경 설치하기
+
+위 과정을 마친 후 프로젝트 파일 내부에 있는 requirements.txt를 설치하여 개발환경을 동기화 시킵니다.
+
+1. 현재 설치된 패키지를 `requirements.txt`에 저장하기
+
+```bash
+pip freeze > requirements.txt
+```
+
+2. 저장된 환경을 설치하기
+
+``` bash
+pip install -r requirements.txt
+```
 
