@@ -8,7 +8,7 @@
   |
   | - dev: 작업들 병합 및 개발자 코드리뷰
   |
-  | - feature: 작업 위치
+  | - features: 작업 위치
   |
   | - ex) login
   |
