@@ -46,6 +46,9 @@ INSTALLED_APPS = [
     "django.contrib.sessions",
     "django.contrib.messages",
     "django.contrib.staticfiles",
+
+    # 생성한 앱
+    'maps',
 ]
 
 """
@@ -144,7 +147,8 @@ USE_TZ = True
 정적 파일(static files)을 제공할 때 사용되는 URL 경로를 지정하는 부분입니다.
 """
 
-STATIC_URL = "static/"
+STATIC_URL = '/static/'
+STATICFILES_DIRS = [BASE_DIR / "static"]
 
 # Default primary key field type
 # https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field
