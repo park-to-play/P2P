@@ -11,8 +11,9 @@
   "dependencies": {
     "@reduxjs/toolkit": "^2.2.7",
     "axios": "^1.7.7",
-    "next": "14.2.13",
-    "react": "^18",
+    "next": "^14.2.13",
+    "react": "^18.3.1",
+    "react-do": "^1.1.6",
     "react-dom": "^18"
   },
   "devDependencies": {
