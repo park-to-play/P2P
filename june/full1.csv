@@ -1,0 +1,152 @@
+,park_name,capacity,park_phone,cur_parking,cur_parking_time,available_parking,count,date,hour,day_of_week,is_weekend,park_type_BP,park_type_BS,park_type_NP,park_type_NS,park_type_NW,que_status_20분,que_status_2시간,que_status_2일,available_parking_less_than_zero
+2,현대성우아파트,228,02-3491-8954,228,2024-10-03 10:06:28,0,2,2024-10-03 01:07:33,10,3,False,False,True,False,False,False,True,False,False,105
+6,이안테라디움방학역오피스텔,170,0,170,2024-10-03 10:06:28,0,6,2024-10-03 01:07:40,10,3,False,False,True,False,False,False,True,False,False,105
+8,신한은행 방학동지점,24,0,26,2024-10-03 10:07:36,-2,8,2024-10-03 01:07:42,10,3,False,False,True,False,False,False,True,False,False,105
+11,LG전자베스트샵 쌍문본점,29,0,29,2024-10-03 10:07:40,0,11,2024-10-03 01:07:45,10,3,False,False,True,False,False,False,True,False,False,105
+13,정안빌딩,55,0,55,2024-10-03 10:07:41,0,13,2024-10-03 01:07:48,10,3,False,False,True,False,False,False,True,False,False,105
+28,LG전자베스트샵 노원본점,25,0,25,2024-10-03 10:07:39,0,28,2024-10-03 01:08:03,10,3,False,False,True,False,False,False,True,False,False,105
+31,수유프라자,51,0,51,2024-10-03 10:07:32,0,31,2024-10-03 01:08:06,10,3,False,False,True,False,False,False,True,False,False,105
+32,우리은행 미아역지점,18,0,18,2024-10-03 10:07:35,0,32,2024-10-03 01:08:08,10,3,False,False,True,False,False,False,True,False,False,105
+39,꿈의숲요양병원,73,0,73,2024-10-03 10:07:39,0,39,2024-10-03 01:08:16,10,3,False,False,True,False,False,False,True,False,False,105
+45,LG전자베스트샵 강북본점,34,0,34,2024-10-03 10:07:46,0,45,2024-10-03 01:08:25,10,3,False,False,True,False,False,False,True,False,False,105
+52,베누스타 주차장,50,0,50,2024-10-03 10:07:34,0,52,2024-10-03 01:08:34,10,3,False,False,True,False,False,False,True,False,False,105
+53,성북힐스테이트 주차장,70,0,70,2024-10-03 10:07:40,0,53,2024-10-03 01:08:34,10,3,False,False,True,False,False,False,True,False,False,105
+54,성북힐스테이트아파트,75,0,75,2024-10-03 10:07:40,0,54,2024-10-03 01:08:35,10,3,False,False,True,False,False,False,True,False,False,105
+57,대명프라자,40,010-8705-5638,40,2024-10-03 10:07:40,0,57,2024-10-03 01:08:38,10,3,False,False,True,False,False,False,True,False,False,105
+60,다이소 망우2호점,13,0,13,2024-10-03 10:07:33,0,60,2024-10-03 01:08:41,10,3,False,False,True,False,False,False,True,False,False,105
+62,휘경메디컬프라자,109,0,109,2024-10-03 10:07:41,0,62,2024-10-03 01:08:43,10,3,False,False,True,False,False,False,True,False,False,105
+65,돈암동일하이빌 주차장,123,0,123,2024-10-03 10:07:32,0,65,2024-10-03 01:08:49,10,3,False,False,True,False,False,False,True,False,False,105
+69,두산베어스타워,110,0,110,2024-10-03 10:07:42,0,69,2024-10-03 01:08:52,10,3,False,False,True,False,False,False,True,False,False,105
+71,LG전자베스트샵 용두점,27,0,27,2024-10-03 10:07:47,0,71,2024-10-03 01:08:55,10,3,False,False,True,False,False,False,True,False,False,105
+73,동대문베네스트어반라이프,131,0,131,2024-10-03 10:07:42,0,73,2024-10-03 01:08:59,10,3,False,False,True,False,False,False,True,False,False,105
+75,홍익대학교 대학로캠퍼스,418,02-3275-3942,418,2024-10-03 10:08:54,0,75,2024-10-03 01:09:03,10,3,False,False,True,False,False,False,True,False,False,105
+76,중곡3동공영주차장(구),162,02-2049-4596,162,2024-10-03 10:08:48,0,76,2024-10-03 01:09:03,10,3,False,False,False,False,False,True,True,False,False,105
+82,공유) 04-01(구),22,02-2204-7970,22,2024-10-03 09:59:10,0,82,2024-10-03 01:09:08,9,3,False,False,False,False,True,False,True,False,False,105
+103,우리은행ATM 종로5가지점,13,0,13,2024-10-03 10:08:55,0,102,2024-10-03 01:09:38,10,3,False,False,True,False,False,False,True,False,False,105
+113,강일타워,75,0,75,2024-10-03 10:08:56,0,112,2024-10-03 01:09:54,10,3,False,False,True,False,False,False,True,False,False,105
+118,서희스타힐스아파트,250,0,250,2024-10-03 10:08:56,0,117,2024-10-03 01:09:59,10,3,False,False,True,False,False,False,True,False,False,105
+119,한강훼미리아파트,116,0,116,2024-10-03 10:08:51,0,118,2024-10-03 01:10:00,10,3,False,False,True,False,False,False,True,False,False,105
+129,공유) 04-14(구),7,02-2204-7970,8,2024-10-03 10:09:13,-1,128,2024-10-03 01:10:14,10,3,False,False,False,False,True,False,True,False,False,105
+143,청계천두산위브더제니스상,997,0,997,2024-10-03 10:10:12,0,142,2024-10-03 01:10:33,10,3,False,False,True,False,False,False,True,False,False,105
+167,세종주차장(민영),250,080-330-3600,250,2024-10-03 10:10:06,0,167,2024-10-03 01:11:01,10,3,False,False,False,True,False,False,True,False,False,105
+173,경륜경정 장안지점 주차장,100,0,100,2024-10-03 10:10:08,0,173,2024-10-03 01:11:08,10,3,False,True,False,False,False,False,True,False,False,105
+177,공유) 20-33(구),19,02-2204-7970,24,2024-10-03 10:09:17,-5,175,2024-10-03 01:11:11,10,3,False,False,False,False,True,False,True,False,False,105
+182,공유) 20-23(구),10,02-2204-7970,18,2024-10-03 10:09:14,-8,182,2024-10-03 01:11:21,10,3,False,False,False,False,True,False,True,False,False,105
+186,공유) 04-20(구),4,02-2204-7970,4,2024-10-03 10:09:19,0,186,2024-10-03 01:11:26,10,3,False,False,False,False,True,False,True,False,False,105
+190,공유) 03-20(구),5,02-2204-7970,5,2024-10-03 10:09:13,0,190,2024-10-03 01:11:31,10,3,False,False,False,False,True,False,True,False,False,105
+191,공유) 06-05(구),9,02-2204-7970,9,2024-10-03 10:09:17,0,191,2024-10-03 01:11:33,10,3,False,False,False,False,True,False,True,False,False,105
+197,남산센트럴시티투웨니퍼스트오피스텔,100,0,100,2024-10-03 10:11:36,0,197,2024-10-03 01:11:42,10,3,False,False,True,False,False,False,True,False,False,105
+203,LG전자베스트샵 광진본점,24,0,24,2024-10-03 10:11:38,0,203,2024-10-03 01:11:50,10,3,False,False,True,False,False,False,True,False,False,105
+204,스테이더디자이너스군자오피스텔 주차장,100,02-6461-1200,100,2024-10-03 10:11:27,0,204,2024-10-03 01:11:50,10,3,False,False,True,False,False,False,True,False,False,105
+211,공유) 06-02(구),8,02-2204-7970,8,2024-10-03 10:09:13,0,211,2024-10-03 01:12:00,10,3,False,False,False,False,True,False,True,False,False,105
+213,서울숲리버뷰자이아파트상가,23,0,23,2024-10-03 10:11:35,0,213,2024-10-03 01:12:01,10,3,False,False,True,False,False,False,True,False,False,105
+239,공유) 08-10(구),10,02-2204-7970,10,2024-10-03 10:09:15,0,239,2024-10-03 01:12:30,10,3,False,False,False,False,True,False,True,False,False,105
+245,벽산하이피아프라자 별관,15,0,15,2024-10-03 10:11:35,0,245,2024-10-03 01:12:40,10,3,False,False,True,False,False,False,True,False,False,105
+250,신금호파크자이아파트 상가동,28,0,28,2024-10-03 10:11:37,0,250,2024-10-03 01:12:47,10,3,False,False,True,False,False,False,True,False,False,105
+256,DGB금융센터,85,0,93,2024-10-03 10:12:41,-8,256,2024-10-03 01:12:54,10,3,False,False,True,False,False,False,True,False,False,105
+278,남대문 시장 관광버스전용 주차장(시),2,02)2290-6449,2,2024-10-03 10:13:02,0,278,2024-10-03 01:13:18,10,3,False,False,False,False,True,False,True,False,False,101
+293,바비엥2오피스텔,637,0,637,2024-10-03 10:12:45,0,293,2024-10-03 01:13:35,10,3,False,False,True,False,False,False,True,False,False,105
+295,정동빌딩,170,0,170,2024-10-03 10:12:40,0,294,2024-10-03 01:13:36,10,3,False,False,True,False,False,False,True,False,False,105
+313,LG전자베스트샵 동교점,20,0,20,2024-10-03 10:12:54,0,313,2024-10-03 01:13:59,10,3,False,False,True,False,False,False,True,False,False,105
+321,망원노외주차장(구),20,02-300-5046,20,2024-10-03 10:14:04,0,321,2024-10-03 01:14:09,10,3,False,False,False,False,False,True,True,False,False,105
+324,마포클레세오피스텔,130,0,130,2024-10-03 10:14:09,0,324,2024-10-03 01:14:13,10,3,False,False,True,False,False,False,True,False,False,105
+327,상암월드시티,171,0,171,2024-10-03 10:14:06,0,327,2024-10-03 01:14:16,10,3,False,False,True,False,False,False,True,False,False,105
+328,아트센타,15,0,15,2024-10-03 10:14:05,0,328,2024-10-03 01:14:18,10,3,False,False,True,False,False,False,True,False,False,105
+335,가양3동 공영주차장(시),56,010-9381-8004,950,2024-10-03 10:14:11,-894,335,2024-10-03 01:14:29,10,3,False,False,False,False,False,True,True,False,False,105
+336,강변샤르망1단지,94,0,94,2024-10-03 10:14:08,0,336,2024-10-03 01:14:31,10,3,False,False,True,False,False,False,True,False,False,105
+337,강변샤르망2단지,90,0,90,2024-10-03 10:14:08,0,336,2024-10-03 01:14:31,10,3,False,False,True,False,False,False,True,False,False,105
+338,강변샤르망3단지,134,0,134,2024-10-03 10:14:08,0,336,2024-10-03 01:14:31,10,3,False,False,True,False,False,False,True,False,False,105
+339,더브리티시몰,115,0,115,2024-10-03 10:14:01,0,339,2024-10-03 01:14:35,10,3,False,False,True,False,False,False,True,False,False,105
+340,가양상가,55,0,55,2024-10-03 10:14:11,0,340,2024-10-03 01:14:37,10,3,False,False,True,False,False,False,True,False,False,105
+341,이스타빌1차,91,0,91,2024-10-03 10:14:06,0,340,2024-10-03 01:14:37,10,3,False,False,True,False,False,False,True,False,False,105
+342,금부빌딩,375,010-4349-9240,375,2024-10-03 10:14:01,0,341,2024-10-03 01:14:38,10,3,False,False,True,False,False,False,True,False,False,105
+347,VIPS프리미어 등촌점,50,0,50,2024-10-03 10:14:09,0,347,2024-10-03 01:14:46,10,3,False,False,True,False,False,False,True,False,False,105
+349,마곡대방디엠시티2차,300,0,300,2024-10-03 10:14:04,0,349,2024-10-03 01:14:50,10,3,False,False,True,False,False,False,True,False,False,105
+350,리더스애비뉴 마곡,75,0,75,2024-10-03 10:14:09,0,350,2024-10-03 01:14:51,10,3,False,False,True,False,False,False,True,False,False,105
+351,마곡센트럴타워1차,185,0,185,2024-10-03 10:14:10,0,351,2024-10-03 01:14:53,10,3,False,False,True,False,False,False,True,False,False,105
+352,마곡테크노타워1차,35,0,35,2024-10-03 10:14:04,0,352,2024-10-03 01:14:54,10,3,False,False,True,False,False,False,True,False,False,105
+353,열린M타워,303,0,303,2024-10-03 10:14:01,0,353,2024-10-03 01:14:56,10,3,False,False,True,False,False,False,True,False,False,105
+355,메트로비즈타워,100,0,100,2024-10-03 10:14:06,0,355,2024-10-03 01:14:58,10,3,False,False,True,False,False,False,True,False,False,105
+357,류마타워2차,135,0,135,2024-10-03 10:14:08,0,357,2024-10-03 01:14:59,10,3,False,False,True,False,False,False,True,False,False,105
+362,롯데슈퍼프레시 개화산점,16,0,16,2024-10-03 10:14:10,0,362,2024-10-03 01:15:03,10,3,False,False,True,False,False,False,True,False,False,105
+371,별정우체국연금관리단빌딩,79,0,79,2024-10-03 10:14:00,0,370,2024-10-03 01:15:14,10,3,False,False,True,False,False,False,True,False,False,105
+373,마포신영지웰 주차장,208,0,208,2024-10-03 10:15:14,0,373,2024-10-03 01:15:16,10,3,False,False,True,False,False,False,True,False,False,105
+375,나이스파크서강점주차장,70,0,70,2024-10-03 10:14:02,0,375,2024-10-03 01:15:18,10,3,False,False,True,False,False,False,True,False,False,105
+381,용산더프라임,902,0,902,2024-10-03 10:15:18,0,381,2024-10-03 01:15:24,10,3,False,False,True,False,False,False,True,False,False,105
+385,다보빌딩,152,0,152,2024-10-03 10:15:17,0,385,2024-10-03 01:15:27,10,3,False,False,True,False,False,False,True,False,False,105
+389,볏골공원 지하공영주차장(구),231,02-2065-1575,304,2024-10-03 10:14:57,-73,389,2024-10-03 01:15:35,10,3,False,False,False,False,False,True,True,False,False,100
+391,이태원주차장(민영),13,0,13,2024-10-03 10:15:25,0,391,2024-10-03 01:15:38,10,3,False,False,False,True,False,False,True,False,False,105
+411,당산역효성해링턴타워오피스텔 주차장,378,0,378,2024-10-03 10:15:15,0,410,2024-10-03 01:16:00,10,3,False,False,True,False,False,False,True,False,False,105
+412,YP센터 주차장,103,0,103,2024-10-03 10:15:14,0,412,2024-10-03 01:16:02,10,3,False,False,True,False,False,False,True,False,False,105
+422,현대차증권빌딩,291,0,291,2024-10-03 10:15:25,0,422,2024-10-03 01:16:13,10,3,False,False,True,False,False,False,True,False,False,105
+432,웨스턴베니비스 영등포점,31,0,31,2024-10-03 10:15:27,0,432,2024-10-03 01:16:26,10,3,False,False,True,False,False,False,True,False,False,105
+444,목동우림필유,173,0,173,2024-10-03 10:15:26,0,444,2024-10-03 01:16:42,10,3,False,False,True,False,False,False,True,False,False,105
+447,제이월드빌,150,0,150,2024-10-03 10:15:26,0,445,2024-10-03 01:16:43,10,3,False,False,True,False,False,False,True,False,False,105
+448,LG전자베스트샵 양천본점,9,0,9,2024-10-03 10:15:29,0,448,2024-10-03 01:16:47,10,3,False,False,True,False,False,False,True,False,False,105
+450,동방숯가마사우나,50,0,50,2024-10-03 10:16:43,0,450,2024-10-03 01:16:48,10,3,False,False,True,False,False,False,True,False,False,105
+467,목동이스타빌,308,0,308,2024-10-03 10:16:48,0,467,2024-10-03 01:17:08,10,3,False,False,True,False,False,False,True,False,False,105
+472,메가스터디타워,344,0,344,2024-10-03 10:16:35,0,472,2024-10-03 01:17:13,10,3,False,False,True,False,False,False,True,False,False,105
+473,VIPS 대방점,25,0,25,2024-10-03 10:16:46,0,473,2024-10-03 01:17:14,10,3,False,False,True,False,False,False,True,False,False,105
+476,센터플러스,266,0,266,2024-10-03 10:16:41,0,476,2024-10-03 01:17:16,10,3,False,False,True,False,False,False,True,False,False,105
+492,제니스스포츠클럽,355,0,355,2024-10-03 10:16:47,0,493,2024-10-03 01:17:39,10,3,False,False,True,False,False,False,True,False,False,105
+495,메트하임,90,0,90,2024-10-03 10:16:41,0,496,2024-10-03 01:17:43,10,3,False,False,True,False,False,False,True,False,False,105
+500,대림프라자,38,0,38,2024-10-03 10:16:34,0,501,2024-10-03 01:17:49,10,3,False,False,True,False,False,False,True,False,False,105
+508,정현빌딩,108,0,108,2024-10-03 10:16:43,0,509,2024-10-03 01:18:00,10,3,False,False,True,False,False,False,True,False,False,105
+517,해태보라매타워,351,0,351,2024-10-03 10:18:03,0,518,2024-10-03 01:18:11,10,3,False,False,True,False,False,False,True,False,False,105
+520,구로4동 주택가 공동 주차장(구),194,02-839-4875,228,2024-10-03 10:16:38,-34,521,2024-10-03 01:18:16,10,3,False,False,False,False,False,True,True,False,False,105
+524,우성타운상가,80,0,80,2024-10-03 10:17:59,0,525,2024-10-03 01:18:22,10,3,False,False,True,False,False,False,True,False,False,105
+529,TP타워,348,02-2621-2860,1299,2024-10-03 10:18:25,-951,530,2024-10-03 01:18:29,10,3,False,False,True,False,False,False,True,False,False,105
+537,랑데르오피스텔상가,22,0,22,2024-10-03 10:18:03,0,538,2024-10-03 01:18:39,10,3,False,False,True,False,False,False,True,False,False,105
+565,아이온타워3차,20,0,20,2024-10-03 10:18:01,0,567,2024-10-03 01:19:11,10,3,False,False,True,False,False,False,True,False,False,105
+573,LG전자베스트샵 금천본점,23,0,23,2024-10-03 10:18:04,0,575,2024-10-03 01:19:21,10,3,False,False,True,False,False,False,True,False,False,105
+594,LG전자베스트샵 은평점,9,02--,9,2024-10-03 10:19:20,0,596,2024-10-03 01:19:45,10,3,False,False,True,False,False,False,True,False,False,105
+597,상암오밸리스크1차,465,0,465,2024-10-03 10:19:18,0,599,2024-10-03 01:19:48,10,3,False,False,True,False,False,False,True,False,False,105
+610,방화역(동) 공영주차장(시),67,010-9381-8004,868,2024-10-03 10:19:31,-801,612,2024-10-03 01:20:08,10,3,False,False,False,False,False,True,True,False,False,105
+618,한국소아마비협회,150,0,150,2024-10-03 10:19:14,0,620,2024-10-03 01:20:18,10,3,False,False,True,False,False,False,True,False,False,105
+645,강동홈플러스 주차장,719,080-330-3600,719,2024-10-03 10:16:54,0,647,2024-10-03 01:20:48,10,3,False,False,True,False,False,False,True,False,False,105
+655,공유) 18-11(구),7,02-2204-7970,8,2024-10-03 10:19:15,-1,657,2024-10-03 01:21:00,10,3,False,False,False,False,True,False,True,False,False,105
+661,공유) 16-17(구),10,02-2204-7970,10,2024-10-03 10:19:16,0,662,2024-10-03 01:21:04,10,3,False,False,False,False,True,False,True,False,False,105
+670,공유) 15-01(구),6,02-2204-7970,6,2024-10-03 10:19:16,0,672,2024-10-03 01:21:18,10,3,False,False,False,False,True,False,True,False,False,105
+672,공유) 16-30(구),7,02-2204-7970,7,2024-10-03 10:19:09,0,674,2024-10-03 01:21:21,10,3,False,False,False,False,True,False,True,False,False,105
+673,공유) 16-31(구),7,02-2204-7970,7,2024-10-03 10:19:11,0,675,2024-10-03 01:21:23,10,3,False,False,False,False,True,False,True,False,False,105
+684,대우한강베네시티,102,02-1522-0741,102,2024-10-03 10:21:01,0,686,2024-10-03 01:21:39,10,3,False,False,True,False,False,False,True,False,False,105
+686,건국대학교사범대학부속중학교 주차장,100,02-1899-7275,100,2024-10-03 10:20:27,0,688,2024-10-03 01:21:41,10,3,False,False,True,False,False,False,True,False,False,105
+695,공유) 18-48(구),9,02-2204-7970,9,2024-10-03 10:19:12,0,696,2024-10-03 01:21:52,10,3,False,False,False,False,True,False,True,False,False,105
+702,공유) 15-06(구),5,02-2204-7970,5,2024-10-03 10:19:13,0,704,2024-10-03 01:21:59,10,3,False,False,False,False,True,False,True,False,False,105
+703,공유) 15-12(구),4,02-2204-7970,4,2024-10-03 10:19:11,0,705,2024-10-03 01:22:00,10,3,False,False,False,False,True,False,True,False,False,105
+711,LG전자베스트샵 강동본점,20,0,20,2024-10-03 10:21:51,0,713,2024-10-03 01:22:10,10,3,False,False,True,False,False,False,True,False,False,105
+714,우성아트빌,76,0,76,2024-10-03 10:21:53,0,716,2024-10-03 01:22:16,10,3,False,False,True,False,False,False,True,False,False,105
+720,풍납1(구),46,010-4395-2165,46,2024-10-03 10:21:05,0,722,2024-10-03 01:22:23,10,3,False,False,False,False,False,True,True,False,False,103
+723,LG전자베스트샵 건대입구점,18,0,18,2024-10-03 10:21:51,0,726,2024-10-03 01:22:26,10,3,False,False,True,False,False,False,True,False,False,104
+749,삼원빌딩,37,0,37,2024-10-03 10:21:57,0,752,2024-10-03 01:22:58,10,3,False,False,True,False,False,False,True,False,False,105
+755,언주로171길(구),29,0,43,2024-10-03 10:22:43,-14,757,2024-10-03 01:23:05,10,3,False,False,False,False,True,False,True,False,False,105
+765,청담동 삼강빌딩,47,0,47,2024-10-03 10:23:14,0,768,2024-10-03 01:23:17,10,3,False,False,True,False,False,False,True,False,False,105
+766,강남구청 주차장,120,02-3423-6833,143,2024-10-03 10:23:16,-23,769,2024-10-03 01:23:18,10,3,False,True,False,False,False,False,True,False,False,105
+773,잠실대명밸리온,180,0,180,2024-10-03 10:23:11,0,776,2024-10-03 01:23:28,10,3,False,False,True,False,False,False,True,False,False,105
+782,강남구청사 삼성동 별관,42,02-1544-3113,74,2024-10-03 10:23:34,-32,785,2024-10-03 01:23:39,10,3,False,False,True,False,False,False,True,False,False,105
+785,위워크 신사점 주차장,7,0,7,2024-10-03 10:23:05,0,788,2024-10-03 01:23:44,10,3,False,False,True,False,False,False,True,False,False,102
+797,무이재한방병원,83,0,83,2024-10-03 10:23:17,0,800,2024-10-03 01:23:59,10,3,False,False,True,False,False,False,True,False,False,105
+800,동인트루빌,100,0,100,2024-10-03 10:23:09,0,803,2024-10-03 01:24:05,10,3,False,False,True,False,False,False,True,False,False,105
+803,석촌역(제1호)(구),13,0,13,2024-10-03 10:21:05,0,806,2024-10-03 01:24:09,10,3,False,False,False,False,True,False,True,False,False,105
+813,덕우빌딩,46,0,46,2024-10-03 10:23:11,0,816,2024-10-03 01:24:20,10,3,False,False,True,False,False,False,True,False,False,105
+817,롯데슈퍼프레시 가락점,22,0,22,2024-10-03 10:24:21,0,820,2024-10-03 01:24:26,10,3,False,False,True,False,False,False,True,False,False,105
+822,SM TOWER,46,0,46,2024-10-03 10:24:30,0,825,2024-10-03 01:24:33,10,3,False,False,True,False,False,False,True,False,False,105
+825,아르고주차장,33,0,33,2024-10-03 10:24:28,0,828,2024-10-03 01:24:38,10,3,False,False,True,False,False,False,True,False,False,104
+828,테헤란오피스빌딩,128,0,128,2024-10-03 10:24:20,0,830,2024-10-03 01:24:41,10,3,False,False,True,False,False,False,True,False,False,105
+831,오렌지플래닛,467,0,467,2024-10-03 10:24:29,0,834,2024-10-03 01:24:45,10,3,False,False,True,False,False,False,True,False,False,105
+833,강남N타워 주차장,197,0,197,2024-10-03 10:24:22,0,836,2024-10-03 01:24:48,10,3,False,False,True,False,False,False,True,False,False,105
+835,마천동1(건축물식)(구),215,02-404-6275,215,2024-10-03 10:21:05,0,838,2024-10-03 01:24:50,10,3,False,False,False,False,False,True,True,False,False,105
+837,현대그린빌아파트,213,0,213,2024-10-03 10:24:30,0,840,2024-10-03 01:24:52,10,3,False,False,True,False,False,False,True,False,False,105
+845,도곡프라자,62,0,62,2024-10-03 10:24:32,0,848,2024-10-03 01:25:02,10,3,False,False,True,False,False,False,True,False,False,105
+847,삼원타워,221,0,221,2024-10-03 10:24:32,0,850,2024-10-03 01:25:05,10,3,False,False,True,False,False,False,True,False,False,105
+849,서평프라자,38,0,38,2024-10-03 10:24:31,0,852,2024-10-03 01:25:07,10,3,False,False,True,False,False,False,True,False,False,105
+857,역삼이스타빌,60,0,60,2024-10-03 10:24:34,0,860,2024-10-03 01:25:14,10,3,False,False,True,False,False,False,True,False,False,105
+858,솔라티움시티오피스텔,30,0,30,2024-10-03 10:24:36,0,861,2024-10-03 01:25:16,10,3,False,False,True,False,False,False,True,False,False,105
+862,송파헤븐시티더테라스,110,0,110,2024-10-03 10:24:35,0,865,2024-10-03 01:25:21,10,3,False,False,True,False,False,False,True,False,False,105
+872,화엄타워 주차장,49,0,49,2024-10-03 10:24:22,0,875,2024-10-03 01:25:29,10,3,False,False,True,False,False,False,True,False,False,105
+878,이마트에브리데이 남부터미널점,14,0,14,2024-10-03 10:24:27,0,881,2024-10-03 01:25:37,10,3,False,False,True,False,False,False,True,False,False,105
+888,서강프라자,33,0,33,2024-10-03 10:25:47,0,891,2024-10-03 01:25:51,10,3,False,False,True,False,False,False,True,False,False,105
+892,강남레체오피스텔,34,0,34,2024-10-03 10:25:44,0,895,2024-10-03 01:25:57,10,3,False,False,True,False,False,False,True,False,False,105
+896,서초케이타운,87,0,87,2024-10-03 10:25:44,0,899,2024-10-03 01:26:01,10,3,False,False,True,False,False,False,True,False,False,105
+897,내곡드림시티1,44,0,44,2024-10-03 10:25:39,0,900,2024-10-03 01:26:03,10,3,False,False,True,False,False,False,True,False,False,105
+898,내곡프라임시티,38,0,38,2024-10-03 10:25:45,0,901,2024-10-03 01:26:04,10,3,False,False,True,False,False,False,True,False,False,105
