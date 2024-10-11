@@ -1,0 +1,264 @@
+park_name,capacity,cur_parking,cur_parking_time,available_parking,count,date,hour,day_of_week,is_weekend,park_type_BP,park_type_BS,park_type_NP,park_type_NS,park_type_NW,que_status_20분,que_status_2시간,que_status_2일,available_parking_less_than_zero
+거성학마을아파트,314,296,2024-10-02 16:20:40,18,5,2024-10-02 07:21:49,16,2,False,False,True,False,False,False,True,False,False,0
+홈플러스 방학점,611,175,2024-10-02 16:21:48,436,7,2024-10-02 07:21:52,16,2,False,False,True,False,False,False,True,False,False,0
+롯데백화점 노원점(별관) 주차장,492,198,2024-10-02 16:20:00,294,9,2024-10-02 07:21:55,16,2,False,False,True,False,False,False,True,False,False,0
+롯데백화점 노원점(본관) 주차장,488,305,2024-10-02 16:20:00,183,10,2024-10-02 07:21:57,16,2,False,False,True,False,False,False,True,False,False,0
+KT노원타워,153,141,2024-10-02 16:21:57,12,14,2024-10-02 07:22:00,16,2,False,False,True,False,False,False,True,False,False,0
+씨드큐브창동,961,299,2024-10-02 16:21:42,662,15,2024-10-02 07:22:00,16,2,False,False,True,False,False,False,True,False,False,0
+상계백병원 주차장,349,219,2024-10-02 16:21:54,130,17,2024-10-02 07:22:04,16,2,False,False,True,False,False,False,True,False,False,0
+2001아울렛 중계점,263,192,2024-10-02 16:20:43,71,20,2024-10-02 07:22:08,16,2,False,False,True,False,False,False,True,False,False,15
+홈플러스 중계점,710,76,2024-10-02 16:22:04,634,22,2024-10-02 07:22:10,16,2,False,False,True,False,False,False,True,False,False,0
+에피소드수유838,558,278,2024-10-02 16:21:57,280,25,2024-10-02 07:22:15,16,2,False,False,True,False,False,False,True,False,False,13
+노원을지대학교병원 주차장,337,226,2024-10-02 16:22:12,111,26,2024-10-02 07:22:16,16,2,False,False,True,False,False,False,True,False,False,0
+희성프라자,113,23,2024-10-02 16:22:16,90,29,2024-10-02 07:22:19,16,2,False,False,True,False,False,False,True,False,False,0
+이마트월계점,1006,537,2024-10-02 16:21:34,469,34,2024-10-02 07:22:26,16,2,False,False,True,False,False,False,True,False,False,0
+롯데마트 삼양점,233,216,2024-10-02 16:21:53,17,37,2024-10-02 07:22:30,16,2,False,False,True,False,False,False,True,False,False,42
+홈플러스 신내점,393,373,2024-10-02 16:22:34,20,43,2024-10-02 07:22:36,16,2,False,False,True,False,False,False,True,False,False,1
+롯데백화점[미아점] 지하주차장,485,224,2024-10-02 16:20:00,261,50,2024-10-02 07:22:44,16,2,False,False,True,False,False,False,True,False,False,0
+신세계 이마트미아점,83,113,2024-10-02 16:22:42,-30,51,2024-10-02 07:22:45,16,2,False,False,True,False,False,False,True,False,False,28
+현대백화점 미아점 주차장,600,155,2024-10-02 16:22:47,445,55,2024-10-02 07:22:51,16,2,False,False,True,False,False,False,True,False,False,0
+JR메디컬센터타워 주차장,32,31,2024-10-02 16:21:49,1,56,2024-10-02 07:22:52,16,2,False,False,True,False,False,False,True,False,False,76
+홈플러스 월곡점,658,421,2024-10-02 16:22:49,237,58,2024-10-02 07:22:53,16,2,False,False,True,False,False,False,True,False,False,0
+러스크서울병원[망우동 4호점],89,24,2024-10-02 16:22:48,65,59,2024-10-02 07:22:55,16,2,False,False,True,False,False,False,True,False,False,0
+이마트 상봉점,579,2,2024-10-02 16:22:51,577,61,2024-10-02 07:22:56,16,2,False,False,True,False,False,False,True,False,False,0
+JS빌딩 주차장,24,24,2024-10-02 16:21:50,0,64,2024-10-02 07:22:59,16,2,False,False,True,False,False,False,True,False,False,90
+녹색병원 주차장,80,82,2024-10-02 16:21:01,-2,66,2024-10-02 07:23:01,16,2,False,False,True,False,False,False,True,False,False,23
+제이앤지산 주차장,114,97,2024-10-02 16:21:51,17,67,2024-10-02 07:23:03,16,2,False,False,True,False,False,False,True,False,False,42
+롯데백화점 청량리점 주차장,1531,503,2024-10-02 16:20:00,1028,68,2024-10-02 07:23:05,16,2,False,False,True,False,False,False,True,False,False,0
+홈플러스 동대문점,669,353,2024-10-02 16:23:04,316,72,2024-10-02 07:23:10,16,2,False,False,True,False,False,False,True,False,False,0
+동의보감타워,153,153,2024-10-02 16:22:01,0,74,2024-10-02 07:23:14,16,2,False,False,True,False,False,False,True,False,False,46
+하나손해보험빌딩 주차장,82,56,2024-10-02 16:23:13,26,106,2024-10-02 07:23:52,16,2,False,False,True,False,False,False,True,False,False,0
+종로플레이스 주차장,202,154,2024-10-02 16:23:50,48,107,2024-10-02 07:23:53,16,2,False,False,True,False,False,False,True,False,False,0
+일화고덕비즈밸리,105,58,2024-10-02 16:21:03,47,114,2024-10-02 07:24:02,16,2,False,False,True,False,False,False,True,False,False,0
+알에프텍사옥,104,48,2024-10-02 16:23:19,56,114,2024-10-02 07:24:02,16,2,False,False,True,False,False,False,True,False,False,77
+실로암사우나 중곡점 주차장,65,60,2024-10-02 16:24:00,5,116,2024-10-02 07:24:05,16,2,False,False,True,False,False,False,True,False,False,12
+평화빌딩 주차장,67,67,2024-10-02 16:23:05,0,119,2024-10-02 07:24:09,16,2,False,False,True,False,False,False,True,False,False,69
+경찰공제회 신당동 무궁화회관,15,9,2024-10-02 16:24:02,6,146,2024-10-02 07:24:46,16,2,False,False,True,False,False,False,True,False,False,60
+동대문두산타워 주차장,855,223,2024-10-02 16:23:48,632,149,2024-10-02 07:24:49,16,2,False,False,True,False,False,False,True,False,False,0
+현대백화점 현대시티아울렛 동대문점,618,369,2024-10-02 16:24:42,249,150,2024-10-02 07:24:51,16,2,False,False,True,False,False,False,True,False,False,0
+삼풍넥서스빌딩,62,61,2024-10-02 16:24:28,1,155,2024-10-02 07:24:57,16,2,False,False,True,False,False,False,True,False,False,79
+을지트윈타워 주차장,542,425,2024-10-02 16:25:03,117,162,2024-10-02 07:25:06,16,2,False,False,True,False,False,False,True,False,False,0
+시그니쳐타워 주차장,436,350,2024-10-02 16:20:02,86,168,2024-10-02 07:25:16,16,2,False,False,True,False,False,False,True,False,False,0
+파인에비뉴,602,605,2024-10-02 16:24:19,-3,171,2024-10-02 07:25:19,16,2,False,False,True,False,False,False,True,False,False,1
+크리스탈스퀘어 주차장,69,54,2024-10-02 16:24:00,15,170,2024-10-02 07:25:19,16,2,False,False,True,False,False,False,True,False,False,0
+보건복지행정타운,391,218,2024-10-02 16:24:09,173,172,2024-10-02 07:25:20,16,2,False,False,True,False,False,False,True,False,False,0
+두봉상가 주차장,27,18,2024-10-02 16:24:29,9,173,2024-10-02 07:25:21,16,2,False,False,True,False,False,False,True,False,False,74
+경진주차장,17,17,2024-10-02 16:24:33,0,188,2024-10-02 07:25:40,16,2,False,False,True,False,False,False,True,False,False,87
+왕십리 민자역사 비트플렉스몰 ,1000,635,2024-10-02 16:25:43,365,192,2024-10-02 07:25:45,16,2,False,False,True,False,False,False,True,False,False,0
+서울숲더샵아파트 주차장,347,133,2024-10-02 16:25:43,214,210,2024-10-02 07:26:07,16,2,False,False,True,False,False,False,True,False,False,33
+약수빌딩 주차장,25,18,2024-10-02 16:25:43,7,219,2024-10-02 07:26:18,16,2,False,False,True,False,False,False,True,False,False,80
+앰배서더서울 풀만 호텔,341,161,2024-10-02 16:24:01,180,222,2024-10-02 07:26:21,16,2,False,False,True,False,False,False,True,False,False,0
+강동경희대학교병원,514,488,2024-10-02 16:26:22,26,227,2024-10-02 07:26:28,16,2,False,False,True,False,False,False,True,False,False,0
+명성프라자 주차장,73,73,2024-10-02 16:25:46,0,229,2024-10-02 07:26:30,16,2,False,False,True,False,False,False,True,False,False,56
+이마트 명일점,202,262,2024-10-02 16:26:26,-60,230,2024-10-02 07:26:32,16,2,False,False,True,False,False,False,True,False,False,10
+금호초등학교,123,74,2024-10-02 16:25:23,49,249,2024-10-02 07:27:01,16,2,False,False,True,False,False,False,True,False,False,0
+미래에셋센터원 주차장,763,564,2024-10-02 16:25:56,199,255,2024-10-02 07:27:09,16,2,False,False,True,False,False,False,True,False,False,0
+남대문 메사빌딩,336,85,2024-10-02 16:27:06,251,257,2024-10-02 07:27:11,16,2,False,False,True,False,False,False,True,False,False,0
+눈스퀘어 주차장,109,6,2024-10-02 16:20:02,103,261,2024-10-02 07:27:15,16,2,False,False,True,False,False,False,True,False,False,0
+롯데호텔 롯데백화점,1036,818,2024-10-02 16:20:00,218,264,2024-10-02 07:27:18,16,2,False,False,True,False,False,False,True,False,False,0
+센트로폴리스,560,366,2024-10-02 16:27:14,194,266,2024-10-02 07:27:19,16,2,False,False,True,False,False,False,True,False,False,0
+스테이트타워남산,300,212,2024-10-02 16:26:18,88,268,2024-10-02 07:27:23,16,2,False,False,True,False,False,False,True,False,False,0
+신세계백화점 본점(신관),498,455,2024-10-02 16:27:17,43,269,2024-10-02 07:27:24,16,2,False,False,True,False,False,False,True,False,False,22
+종로타워 주차장,273,195,2024-10-02 16:27:00,78,271,2024-10-02 07:27:25,16,2,False,False,True,False,False,False,True,False,False,0
+지타워 주차장,95,91,2024-10-02 16:20:02,4,272,2024-10-02 07:27:27,16,2,False,False,True,False,False,False,True,False,False,2
+T타워,291,136,2024-10-02 16:24:52,155,275,2024-10-02 07:27:30,16,2,False,False,True,False,False,False,True,False,False,0
+서소문 시티스퀘어,148,139,2024-10-02 16:27:00,9,284,2024-10-02 07:27:41,16,2,False,False,True,False,False,False,True,False,False,15
+한화생명 소공동사옥,459,355,2024-10-02 16:27:30,104,289,2024-10-02 07:27:46,16,2,False,False,True,False,False,False,True,False,False,0
+한화생명 태평로사옥,484,123,2024-10-02 16:27:16,361,290,2024-10-02 07:27:48,16,2,False,False,True,False,False,False,True,False,False,0
+순화타워 주차장,96,76,2024-10-02 16:20:02,20,292,2024-10-02 07:27:49,16,2,False,False,True,False,False,False,True,False,False,0
+중림동 실로암빌딩	,126,103,2024-10-02 16:27:01,23,295,2024-10-02 07:27:52,16,2,False,False,True,False,False,False,True,False,False,0
+하이파킹 서울역 주차장,767,0,2024-10-02 16:27:51,767,296,2024-10-02 07:27:54,16,2,False,False,True,False,False,False,True,False,False,0
+동아일보사 충정로사옥,170,68,2024-10-02 16:27:53,102,299,2024-10-02 07:27:58,16,2,False,False,True,False,False,False,True,False,False,0
+신촌 연세의료원,2682,1542,2024-10-02 16:27:56,1140,306,2024-10-02 07:28:09,16,2,False,False,True,False,False,False,True,False,False,0
+에피소드 신촌369,193,74,2024-10-02 16:27:08,119,307,2024-10-02 07:28:11,16,2,False,False,True,False,False,False,True,False,False,46
+테라운드빌딩 주차장,39,27,2024-10-02 16:25:45,12,309,2024-10-02 07:28:13,16,2,False,False,True,False,False,False,True,False,False,0
+현대백화점 신촌점,454,267,2024-10-02 16:28:06,187,310,2024-10-02 07:28:14,16,2,False,False,True,False,False,False,True,False,False,0
+쓰리알유시티 주차장,23,23,2024-10-02 16:27:02,0,314,2024-10-02 07:28:19,16,2,False,False,True,False,False,False,True,False,False,98
+애경타워 주차장,149,87,2024-10-02 16:27:33,62,315,2024-10-02 07:28:20,16,2,False,False,True,False,False,False,True,False,False,0
+칼리오페 주차장,32,32,2024-10-02 16:28:20,0,316,2024-10-02 07:28:21,16,2,False,False,True,False,False,False,True,False,False,61
+라이즈 오토그래프컬렉션 호텔,105,51,2024-10-02 16:25:17,54,317,2024-10-02 07:28:22,16,2,False,False,True,False,False,False,True,False,False,0
+아만티호텔 서울,142,44,2024-10-02 16:28:18,98,318,2024-10-02 07:28:23,16,2,False,False,True,False,False,False,True,False,False,0
+지남빌딩,33,28,2024-10-02 16:28:20,5,319,2024-10-02 07:28:24,16,2,False,False,True,False,False,False,True,False,False,0
+문화비축기지주차장,42,22,2024-10-02 16:19:01,20,332,2024-10-02 07:28:43,16,2,False,False,True,False,False,False,True,False,False,3
+홈플러스 월드컵점,771,732,2024-10-02 16:28:39,39,333,2024-10-02 07:28:45,16,2,False,False,True,False,False,False,True,False,False,0
+홈플러스 가양점,657,624,2024-10-02 16:28:54,33,344,2024-10-02 07:28:57,16,2,False,False,True,False,False,False,True,False,False,0
+홈플러스 강서점,1201,671,2024-10-02 16:28:54,530,345,2024-10-02 07:28:58,16,2,False,False,True,False,False,False,True,False,False,0
+NC 강서점,934,558,2024-10-02 16:28:57,376,346,2024-10-02 07:29:00,16,2,False,False,True,False,False,False,True,False,False,11
+마곡테크노타워2 주차장,126,106,2024-10-02 16:28:20,20,354,2024-10-02 07:29:12,16,2,False,False,True,False,False,False,True,False,False,28
+SB타워3 주차장,100,69,2024-10-02 16:28:19,31,356,2024-10-02 07:29:15,16,2,False,False,True,False,False,False,True,False,False,57
+김포국제공항 국제선 주차빌딩,567,368,2024-10-02 16:29:00,199,364,2024-10-02 07:29:23,16,2,False,False,True,False,False,False,True,False,False,0
+롯데백화점 김포공항점 주차장,4990,1390,2024-10-02 16:20:00,3600,366,2024-10-02 07:29:25,16,2,False,False,True,False,False,False,True,False,False,0
+공덕 효성해링턴스퀘어 주차장,260,147,2024-10-02 16:27:01,113,369,2024-10-02 07:29:28,16,2,False,False,True,False,False,False,True,False,False,0
+마포 재정회관빌딩,153,64,2024-10-02 16:27:00,89,370,2024-10-02 07:29:29,16,2,False,False,True,False,False,False,True,False,False,0
+이마트 마포점[마포 공덕역 3호점],364,125,2024-10-02 16:29:27,239,372,2024-10-02 07:29:31,16,2,False,False,True,False,False,False,True,False,False,0
+드림앤드림,17,17,2024-10-02 16:28:27,0,379,2024-10-02 07:29:37,16,2,False,False,True,False,False,False,True,False,False,75
+경찰공제회 자람빌딩,235,93,2024-10-02 16:27:02,142,382,2024-10-02 07:29:41,16,2,False,False,True,False,False,False,True,False,False,0
+마포아크로타워,214,31,2024-10-02 16:29:40,183,384,2024-10-02 07:29:42,16,2,False,False,True,False,False,False,True,False,False,0
+아모레퍼시픽 본사 주차장,698,213,2024-10-02 16:29:59,485,403,2024-10-02 07:30:05,16,2,False,False,True,False,False,False,True,False,False,0
+아이파크몰 용산점 주차장,2483,1482,2024-10-02 16:30:01,1001,404,2024-10-02 07:30:06,16,2,False,False,True,False,False,False,True,False,False,6
+서울드래곤시티,535,333,2024-10-02 16:29:57,202,405,2024-10-02 07:30:06,16,2,False,False,True,False,False,False,True,False,False,0
+세우빌딩,49,0,2024-10-02 16:29:09,49,407,2024-10-02 07:30:11,16,2,False,False,True,False,False,False,True,False,False,0
+신한드림리버오피스텔 주차장,232,190,2024-10-02 16:29:36,42,408,2024-10-02 07:30:12,16,2,False,False,True,False,False,False,True,False,False,40
+홈플러스 목동점,915,30,2024-10-02 16:30:18,885,416,2024-10-02 07:30:24,16,2,False,False,True,False,False,False,True,False,False,0
+앵커원,229,118,2024-10-02 16:30:01,111,417,2024-10-02 07:30:25,16,2,False,False,True,False,False,False,True,False,False,0
+IFC 서울 주차장,2085,1308,2024-10-02 16:30:09,777,418,2024-10-02 07:30:25,16,2,False,False,True,False,False,False,True,False,False,0
+씨티플라자 주차장,123,87,2024-10-02 16:30:01,36,419,2024-10-02 07:30:26,16,2,False,False,True,False,False,False,True,False,False,0
+아이엠(im)증권빌딩,320,231,2024-10-02 16:29:15,89,420,2024-10-02 07:30:27,16,2,False,False,True,False,False,False,True,False,False,0
+파크원 주차장,2433,985,2024-10-02 16:30:22,1448,421,2024-10-02 07:30:29,16,2,False,False,True,False,False,False,True,False,False,0
+롯데마트맥스 영등포점,685,310,2024-10-02 16:29:39,375,425,2024-10-02 07:30:35,16,2,False,False,True,False,False,False,True,False,False,32
+코레일유통 본사 사옥 주차장,356,323,2024-10-02 16:30:08,33,427,2024-10-02 07:30:37,16,2,False,False,True,False,False,False,True,False,False,0
+서울양평점 롯데마트주차장(케이엠파크),507,482,2024-10-02 16:30:37,25,433,2024-10-02 07:30:42,16,2,False,False,True,False,False,False,True,False,False,0
+우림이비지센타 주차장,350,202,2024-10-02 16:30:38,148,434,2024-10-02 07:30:43,16,2,False,False,True,False,False,False,True,False,False,0
+현대백화점 목동점,1219,542,2024-10-02 16:20:02,677,436,2024-10-02 07:30:45,16,2,False,False,True,False,False,False,True,False,False,0
+NH농협은행 목동역지점,26,26,2024-10-02 16:29:39,0,437,2024-10-02 07:30:46,16,2,False,False,True,False,False,False,True,False,False,88
+63스퀘어(63빌딩),638,197,2024-10-02 16:30:45,441,439,2024-10-02 07:30:49,16,2,False,False,True,False,False,False,True,False,False,0
+여의도 사학연금(TP타워),570,934,2024-10-02 16:30:40,-364,442,2024-10-02 07:30:52,16,2,False,False,True,False,False,False,True,False,False,48
+금융투자협회,315,209,2024-10-02 16:29:48,106,456,2024-10-02 07:31:08,16,2,False,False,True,False,False,False,True,False,False,87
+영등포 롯데역사 주차장,1167,438,2024-10-02 16:30:00,729,458,2024-10-02 07:31:11,16,2,False,False,True,False,False,False,True,False,False,0
+세미콜론문래,739,617,2024-10-02 16:30:34,122,461,2024-10-02 07:31:16,16,2,False,False,True,False,False,False,True,False,False,0
+홈플러스 영등포점,839,251,2024-10-02 16:31:13,588,462,2024-10-02 07:31:16,16,2,False,False,True,False,False,False,True,False,False,0
+덕봉빌딩[중앙대 1호점],70,36,2024-10-02 16:31:36,34,479,2024-10-02 07:31:37,16,2,False,False,True,False,False,False,True,False,False,0
+신도림테크노마트주차장,2345,1066,2024-10-02 16:30:01,1279,485,2024-10-02 07:31:44,16,2,False,False,True,False,False,False,True,False,False,0
+현대백화점 디큐브시티,1644,975,2024-10-02 16:31:38,669,486,2024-10-02 07:31:45,16,2,False,False,True,False,False,False,True,False,False,0
+도림신협본점 옥외주차장,46,29,2024-10-02 16:30:00,17,490,2024-10-02 07:31:51,16,2,False,False,True,False,False,False,True,False,False,0
+스타팰리스,120,90,2024-10-02 16:30:51,30,491,2024-10-02 07:31:53,16,2,False,False,True,False,False,False,True,False,False,30
+구로대명벨리온,229,226,2024-10-02 16:31:52,3,492,2024-10-02 07:31:54,16,2,False,False,True,False,False,False,True,False,False,0
+NC백화점 신구로점[구로역 4호점],900,761,2024-10-02 16:31:58,139,499,2024-10-02 07:32:02,16,2,False,False,True,False,False,False,True,False,False,0
+일이삼전자타운,496,177,2024-10-02 16:30:01,319,500,2024-10-02 07:32:03,16,2,False,False,True,False,False,False,True,False,False,0
+아이파크몰 고척점 주차장,388,125,2024-10-02 16:30:01,263,502,2024-10-02 07:32:08,16,2,False,False,True,False,False,False,True,False,False,0
+서울특별시보라매병원,628,299,2024-10-02 16:32:06,329,503,2024-10-02 07:32:10,16,2,False,False,True,False,False,False,True,False,False,0
+오류동 시티월드,111,61,2024-10-02 16:30:00,50,511,2024-10-02 07:32:18,16,2,False,False,True,False,False,False,True,False,False,0
+서초 마제스타시티,1148,176,2024-10-02 16:32:15,972,513,2024-10-02 07:32:21,16,2,False,False,True,False,False,False,True,False,False,0
+롯데백화점 관악점 주차장,592,191,2024-10-02 16:30:00,401,515,2024-10-02 07:32:23,16,2,False,False,True,False,False,False,True,False,False,0
+전문건설회관 주차장,725,309,2024-10-02 16:32:21,416,517,2024-10-02 07:32:26,16,2,False,False,True,False,False,False,True,False,False,0
+고려대학교 구로병원,936,185,2024-10-02 16:32:04,751,520,2024-10-02 07:32:30,16,2,False,False,True,False,False,False,True,False,False,0
+봉천동 메카플러스주차장,52,35,2024-10-02 16:32:11,17,526,2024-10-02 07:32:36,16,2,False,False,True,False,False,False,True,False,False,0
+타임스트림[신림역 2호점],264,198,2024-10-02 16:32:34,66,527,2024-10-02 07:32:38,16,2,False,False,True,False,False,False,True,False,False,0
+삼성IT밸리 주차장,326,278,2024-10-02 16:31:36,48,531,2024-10-02 07:32:43,16,2,False,False,True,False,False,False,True,False,False,0
+우림이비지센터,511,366,2024-10-02 16:32:40,145,532,2024-10-02 07:32:45,16,2,False,False,True,False,False,False,True,False,False,0
+대륭포스트타워7차,319,274,2024-10-02 16:32:13,45,533,2024-10-02 07:32:46,16,2,False,False,True,False,False,False,True,False,False,0
+벽산디지털밸리7차,150,102,2024-10-02 16:29:56,48,534,2024-10-02 07:32:48,16,2,False,False,True,False,False,False,True,False,False,0
+에이스테크노타워3차 주차장,310,190,2024-10-02 16:32:46,120,535,2024-10-02 07:32:49,16,2,False,False,True,False,False,False,True,False,False,0
+KT개봉빌딩,116,83,2024-10-02 16:32:46,33,536,2024-10-02 07:32:51,16,2,False,False,True,False,False,False,True,False,False,0
+G-Tower[구로 지스퀘어점],1359,1092,2024-10-02 16:32:53,267,540,2024-10-02 07:32:58,16,2,False,False,True,False,False,False,True,False,False,0
+JNK디지털타워,394,236,2024-10-02 16:30:01,158,541,2024-10-02 07:33:00,16,2,False,False,True,False,False,False,True,False,False,0
+마리오타워,301,208,2024-10-02 16:32:53,93,542,2024-10-02 07:33:01,16,2,False,False,True,False,False,False,True,False,False,0
+지플러스타워,348,266,2024-10-02 16:33:00,82,543,2024-10-02 07:33:02,16,2,False,False,True,False,False,False,True,False,False,0
+코오롱 디지털타워 빌란트 1차,454,294,2024-10-02 16:33:01,160,544,2024-10-02 07:33:04,16,2,False,False,True,False,False,False,True,False,False,0
+구로 한화비즈메트로,374,276,2024-10-02 16:33:00,98,545,2024-10-02 07:33:05,16,2,False,False,True,False,False,False,True,False,False,0
+에이스 하이엔드 타워 1차 부설주차장,544,415,2024-10-02 16:33:01,129,546,2024-10-02 07:33:06,16,2,False,False,True,False,False,False,True,False,False,0
+SJ테크노빌 주차장(롯데팩토리아울렛),846,525,2024-10-02 16:33:03,321,547,2024-10-02 07:33:07,16,2,False,False,True,False,False,False,True,False,False,0
+스타밸리 주차장,346,320,2024-10-02 16:31:14,26,548,2024-10-02 07:33:07,16,2,False,False,True,False,False,False,True,False,False,0
+가산 우림라이온스밸리,1367,655,2024-10-02 16:32:50,712,549,2024-10-02 07:33:08,16,2,False,False,True,False,False,False,True,False,False,0
+가산A1타워 주차장,211,122,2024-10-02 16:29:59,89,550,2024-10-02 07:33:10,16,2,False,False,True,False,False,False,True,False,False,0
+가산비즈니스센터,163,117,2024-10-02 16:33:03,46,551,2024-10-02 07:33:11,16,2,False,False,True,False,False,False,True,False,False,0
+에이스테크노타워10차 주차장,285,102,2024-10-02 16:33:02,183,552,2024-10-02 07:33:13,16,2,False,False,True,False,False,False,True,False,False,0
+대륭테크노타운5차,166,89,2024-10-02 16:33:03,77,553,2024-10-02 07:33:15,16,2,False,False,True,False,False,False,True,False,False,0
+대륭테크노타운6차 주차장,336,238,2024-10-02 16:32:55,98,554,2024-10-02 07:33:16,16,2,False,False,True,False,False,False,True,False,False,0
+디폴리스 주차장,1044,1031,2024-10-02 16:33:07,13,555,2024-10-02 07:33:17,16,2,False,False,True,False,False,False,True,False,False,0
+백상스타타워2차,101,105,2024-10-02 16:33:16,-4,556,2024-10-02 07:33:19,16,2,False,False,True,False,False,False,True,False,False,1
+구로 천왕센터프라자,56,43,2024-10-02 16:33:02,13,557,2024-10-02 07:33:20,16,2,False,False,True,False,False,False,True,False,False,0
+남현동 도원빌딩,59,30,2024-10-02 16:33:02,29,559,2024-10-02 07:33:22,16,2,False,False,True,False,False,False,True,False,False,0
+하이힐(현대시티아울렛),900,295,2024-10-02 16:33:18,605,560,2024-10-02 07:33:23,16,2,False,False,True,False,False,False,True,False,False,0
+stx V-TOWER 주차장,533,411,2024-10-02 16:33:20,122,561,2024-10-02 07:33:23,16,2,False,False,True,False,False,False,True,False,False,0
+더리즌밸리 주차장,156,85,2024-10-02 16:32:14,71,562,2024-10-02 07:33:25,16,2,False,False,True,False,False,False,True,False,False,50
+마리오아울렛 1관,383,80,2024-10-02 16:33:21,303,563,2024-10-02 07:33:26,16,2,False,False,True,False,False,False,True,False,False,0
+마리오아울렛 2관,144,144,2024-10-02 16:33:21,0,564,2024-10-02 07:33:27,16,2,False,False,True,False,False,False,True,False,False,20
+마리오아울렛 3관,588,137,2024-10-02 16:33:26,451,565,2024-10-02 07:33:28,16,2,False,False,True,False,False,False,True,False,False,0
+에이스하이엔드3차 주차장,300,282,2024-10-02 16:33:19,18,566,2024-10-02 07:33:29,16,2,False,False,True,False,False,False,True,False,False,0
+구로항동에이스캠프,236,0,2024-10-02 16:32:25,236,568,2024-10-02 07:33:32,16,2,False,False,True,False,False,False,True,False,False,0
+홈플러스 남현점,613,582,2024-10-02 16:33:29,31,569,2024-10-02 07:33:33,16,2,False,False,True,False,False,False,True,False,False,0
+세이브마트 신림본점 주차장,77,58,2024-10-02 16:32:14,19,570,2024-10-02 07:33:35,16,2,False,False,True,False,False,False,True,False,False,7
+롯데마트 맥스 금천점,601,344,2024-10-02 16:33:21,257,571,2024-10-02 07:33:37,16,2,False,False,True,False,False,False,True,False,False,0
+가산아이에스비즈타워[가산동 3호점],180,161,2024-10-02 16:33:34,19,572,2024-10-02 07:33:39,16,2,False,False,True,False,False,False,True,False,False,0
+한라시그마밸리,590,299,2024-10-02 16:33:19,291,574,2024-10-02 07:33:41,16,2,False,False,True,False,False,False,True,False,False,0
+잔카드림타워,184,120,2024-10-02 16:32:56,64,573,2024-10-02 07:33:41,16,2,False,False,True,False,False,False,True,False,False,0
+현대지식산업센터,1262,805,2024-10-02 16:33:37,457,576,2024-10-02 07:33:44,16,2,False,False,True,False,False,False,True,False,False,0
+홈플러스 금천점,1075,182,2024-10-02 16:33:39,893,577,2024-10-02 07:33:45,16,2,False,False,True,False,False,False,True,False,False,0
+더 루벤스밸리[독산역 1호점],250,35,2024-10-02 16:33:41,215,579,2024-10-02 07:33:46,16,2,False,False,True,False,False,False,True,False,False,0
+대륭테크노타운 20차,504,391,2024-10-02 16:33:44,113,580,2024-10-02 07:33:48,16,2,False,False,True,False,False,False,True,False,False,0
+대륭테크노타운13차,156,144,2024-10-02 16:33:47,12,581,2024-10-02 07:33:50,16,2,False,False,True,False,False,False,True,False,False,0
+우림라이온스밸리2차,467,92,2024-10-02 16:33:45,375,583,2024-10-02 07:33:52,16,2,False,False,True,False,False,False,True,False,False,0
+금천 롯데타워 오피스텔,274,134,2024-10-02 16:33:02,140,585,2024-10-02 07:33:55,16,2,False,False,True,False,False,False,True,False,False,0
+디지털엠파이어 주차장,298,253,2024-10-02 16:33:53,45,586,2024-10-02 07:33:57,16,2,False,False,True,False,False,False,True,False,False,0
+롯데캐슬골드파크3차,830,421,2024-10-02 16:33:59,409,589,2024-10-02 07:34:00,16,2,False,False,True,False,False,False,True,False,False,0
+금천 롯데 캐슬 4차,802,281,2024-10-02 16:33:37,521,588,2024-10-02 07:34:00,16,2,False,False,True,False,False,False,True,False,False,0
+KT광명빌딩,88,25,2024-10-02 16:33:56,63,590,2024-10-02 07:34:01,16,2,False,False,True,False,False,False,True,False,False,0
+홈플러스 시흥점,799,281,2024-10-02 16:33:59,518,591,2024-10-02 07:34:03,16,2,False,False,True,False,False,False,True,False,False,0
+롯데몰 은평점 주차장,1514,996,2024-10-02 16:30:00,518,593,2024-10-02 07:34:06,16,2,False,False,True,False,False,False,True,False,False,0
+한화생명 불광동사옥,217,104,2024-10-02 16:33:03,113,594,2024-10-02 07:34:06,16,2,False,False,True,False,False,False,True,False,False,0
+이마트 은평점[은평이마트점],598,241,2024-10-02 16:34:07,357,597,2024-10-02 07:34:10,16,2,False,False,True,False,False,False,True,False,False,0
+SBS프리즘 타워주차장,196,144,2024-10-02 16:32:41,52,602,2024-10-02 07:34:15,16,2,False,False,True,False,False,False,True,False,False,0
+디디엠씨(DDMC) 주차장,715,490,2024-10-02 16:33:56,225,603,2024-10-02 07:34:17,16,2,False,False,True,False,False,False,True,False,False,0
+엠비씨 씨앤아이 파크엠(MBC C&I PARK M),631,395,2024-10-02 16:34:02,236,604,2024-10-02 07:34:19,16,2,False,False,True,False,False,False,True,False,False,0
+(주)우리기술 사옥,159,126,2024-10-02 16:33:15,33,605,2024-10-02 07:34:19,16,2,False,False,True,False,False,False,True,False,False,0
+상암 더팬빌딩 주차장[마포 상암점],120,98,2024-10-02 16:34:18,22,605,2024-10-02 07:34:19,16,2,False,False,True,False,False,False,True,False,False,0
+트윈트리타워 주차장,266,171,2024-10-02 16:30:01,95,607,2024-10-02 07:34:21,16,2,False,False,True,False,False,False,True,False,False,7
+경복궁 주차장,266,154,2024-10-02 16:32:57,112,608,2024-10-02 07:34:23,16,2,False,False,True,False,False,False,True,False,False,23
+케이트윈타워,402,345,2024-10-02 16:33:57,57,610,2024-10-02 07:34:25,16,2,False,False,True,False,False,False,True,False,False,0
+다올빌딩,96,75,2024-10-02 16:34:31,21,616,2024-10-02 07:34:34,16,2,False,False,True,False,False,False,True,False,False,0
+한국종합기술 사옥[강동첨단 2호점],300,285,2024-10-02 16:34:32,15,617,2024-10-02 07:34:36,16,2,False,False,True,False,False,False,True,False,False,0
+빌리브인테라스,286,286,2024-10-02 16:34:57,0,652,2024-10-02 07:35:19,16,2,False,False,True,False,False,False,True,False,False,36
+서울숲아이티밸리,300,229,2024-10-02 16:34:50,71,662,2024-10-02 07:35:34,16,2,False,False,True,False,False,False,True,False,False,0
+팩토리얼 성수,154,70,2024-10-02 16:33:25,84,669,2024-10-02 07:35:42,16,2,False,False,True,False,False,False,True,False,False,0
+누디트서울숲 주차장,122,86,2024-10-02 16:29:46,36,676,2024-10-02 07:35:52,16,2,False,False,True,False,False,False,True,False,False,0
+갤러리아포레 더몰 상가 주차장,785,184,2024-10-02 16:35:36,601,677,2024-10-02 07:35:54,16,2,False,False,True,False,False,False,True,False,False,0
+2001아울렛 천호점[천호아울렛점],296,155,2024-10-02 16:36:01,141,685,2024-10-02 07:36:03,16,2,False,False,True,False,False,False,True,False,False,0
+건국대학교병원,659,346,2024-10-02 16:36:04,313,689,2024-10-02 07:36:10,16,2,False,False,True,False,False,False,True,False,False,0
+연한빌딩,47,23,2024-10-02 16:36:00,24,690,2024-10-02 07:36:11,16,2,False,False,True,False,False,False,True,False,False,0
+무신사 E1,70,70,2024-10-02 16:36:11,0,699,2024-10-02 07:36:22,16,2,False,False,True,False,False,False,True,False,False,3
+메가박스 성수점,230,182,2024-10-02 16:33:20,48,708,2024-10-02 07:36:33,16,2,False,False,True,False,False,False,True,False,False,1
+에피소드 성수101 주차장,48,48,2024-10-02 16:36:05,0,710,2024-10-02 07:36:35,16,2,False,False,True,False,False,False,True,False,False,66
+강동성심병원[본관/웰빙센터 주차장],128,74,2024-10-02 16:35:02,54,714,2024-10-02 07:36:39,16,2,False,False,True,False,False,False,True,False,False,13
+석탄공회관 주차장,14,11,2024-10-02 16:36:06,3,715,2024-10-02 07:36:40,16,2,False,False,True,False,False,False,True,False,False,82
+강동웨딩KDW 본관주차장,157,117,2024-10-02 16:36:37,40,717,2024-10-02 07:36:42,16,2,False,False,True,False,False,False,True,False,False,0
+프린스 주차장,17,11,2024-10-02 16:36:08,6,719,2024-10-02 07:36:45,16,2,False,False,True,False,False,False,True,False,False,76
+현대백화점 천호점,699,368,2024-10-02 16:36:36,331,721,2024-10-02 07:36:48,16,2,False,False,True,False,False,False,True,False,False,0
+신라빌딩[구의역 자양사거리점],18,17,2024-10-02 16:36:49,1,725,2024-10-02 07:36:53,16,2,False,False,True,False,False,False,True,False,False,0
+LG전자베스트샵 건대입구점,18,18,2024-10-02 16:36:09,0,726,2024-10-02 07:36:55,16,2,False,False,True,False,False,False,True,False,False,104
+성진강변스파랜드,139,0,2024-10-02 16:37:15,139,747,2024-10-02 07:37:18,16,2,False,False,True,False,False,False,True,False,False,0
+와이엠프라젠스파,201,28,2024-10-02 16:37:16,173,748,2024-10-02 07:37:19,16,2,False,False,True,False,False,False,True,False,False,0
+편안한요양병원[광진자양점],65,36,2024-10-02 16:37:17,29,749,2024-10-02 07:37:20,16,2,False,False,True,False,False,False,True,False,False,0
+갤러리아백화점 명품관 EAST,197,71,2024-10-02 16:37:20,126,754,2024-10-02 07:37:27,16,2,False,False,True,False,False,False,True,False,False,0
+갤러리아백화점 명품관 WEST,177,223,2024-10-02 16:37:19,-46,755,2024-10-02 07:37:29,16,2,False,False,True,False,False,False,True,False,False,86
+현대백화점 압구정 본점,325,157,2024-10-02 16:34:01,168,758,2024-10-02 07:37:31,16,2,False,False,True,False,False,False,True,False,False,0
+파티오나인지하주차장,100,49,2024-10-02 16:37:34,51,773,2024-10-02 07:37:51,16,2,False,False,True,False,False,False,True,False,False,71
+파티오나인지상주차장,20,20,2024-10-02 16:37:34,0,773,2024-10-02 07:37:51,16,2,False,False,True,False,False,False,True,False,False,78
+송파빌딩 주차장,70,16,2024-10-02 16:36:34,54,775,2024-10-02 07:37:54,16,2,False,False,True,False,False,False,True,False,False,0
+롯데월드타워몰 주차장,2969,1578,2024-10-02 16:30:00,1391,778,2024-10-02 07:37:59,16,2,False,False,True,False,False,False,True,False,False,0
+롯데캐슬골드,491,336,2024-10-02 16:37:32,155,779,2024-10-02 07:38:00,16,2,False,False,True,False,False,False,True,False,False,0
+타워730 주차장,331,210,2024-10-02 16:37:56,121,781,2024-10-02 07:38:03,16,2,False,False,True,False,False,False,True,False,False,0
+JBK타워 주차장,38,38,2024-10-02 16:37:24,0,782,2024-10-02 07:38:04,16,2,False,False,True,False,False,False,True,False,False,91
+위워크 신사점 주차장,7,7,2024-10-02 16:37:23,0,788,2024-10-02 07:38:10,16,2,False,False,True,False,False,False,True,False,False,102
+롯데월드 주차장,3051,2159,2024-10-02 16:30:00,892,789,2024-10-02 07:38:12,16,2,False,False,True,False,False,False,True,False,False,1
+메디톡스사옥,84,63,2024-10-02 16:38:10,21,793,2024-10-02 07:38:15,16,2,False,False,True,False,False,False,True,False,False,0
+코엑스 주차장,2123,2214,2024-10-02 16:30:02,-91,795,2024-10-02 07:38:16,16,2,False,False,True,False,False,False,True,False,False,1
+현대백화점 무역점,594,481,2024-10-02 16:37:43,113,796,2024-10-02 07:38:17,16,2,False,False,True,False,False,False,True,False,False,0
+호텔오크우드 주차장,454,330,2024-10-02 16:36:02,124,797,2024-10-02 07:38:19,16,2,False,False,True,False,False,False,True,False,False,0
+화이트팜,12,12,2024-10-02 16:37:35,0,801,2024-10-02 07:38:23,16,2,False,False,True,False,False,False,True,False,False,97
+뉴코아 강남점,610,438,2024-10-02 16:38:20,172,802,2024-10-02 07:38:24,16,2,False,False,True,False,False,False,True,False,False,5
+오토웨이타워 주차장,338,245,2024-10-02 16:30:01,93,809,2024-10-02 07:38:35,16,2,False,False,True,False,False,False,True,False,False,0
+브이플렉스 주차장,227,124,2024-10-02 16:30:01,103,810,2024-10-02 07:38:37,16,2,False,False,True,False,False,False,True,False,False,0
+KT선릉타워,157,97,2024-10-02 16:38:36,60,812,2024-10-02 07:38:39,16,2,False,False,True,False,False,False,True,False,False,0
+강남파이낸스프라자,92,36,2024-10-02 16:38:15,56,813,2024-10-02 07:38:41,16,2,False,False,True,False,False,False,True,False,False,0
+헬리오시티상가 주차장,466,520,2024-10-02 16:30:01,-54,821,2024-10-02 07:38:54,16,2,False,False,True,False,False,False,True,False,False,5
+빌라드그리움 주차장,30,29,2024-10-02 16:38:39,1,822,2024-10-02 07:38:55,16,2,False,False,True,False,False,False,True,False,False,0
+새마을운동중앙회빌딩,127,90,2024-10-02 16:38:42,37,824,2024-10-02 07:38:58,16,2,False,False,True,False,False,False,True,False,False,66
+아르고주차장,33,33,2024-10-02 16:38:45,0,828,2024-10-02 07:39:02,16,2,False,False,True,False,False,False,True,False,False,104
+위워크 선릉3호점 주차장,73,54,2024-10-02 16:38:40,19,829,2024-10-02 07:39:03,16,2,False,False,True,False,False,False,True,False,False,43
+역삼아이타워,76,41,2024-10-02 16:39:00,35,830,2024-10-02 07:39:03,16,2,False,False,True,False,False,False,True,False,False,0
+센터필드 주차장,889,692,2024-10-02 16:30:01,197,832,2024-10-02 07:39:05,16,2,False,False,True,False,False,False,True,False,False,0
+역삼아르누보씨티,88,53,2024-10-02 16:38:38,35,833,2024-10-02 07:39:05,16,2,False,False,True,False,False,False,True,False,False,32
+롯데백화점 강남점 주차장,523,386,2024-10-02 16:30:00,137,847,2024-10-02 07:39:24,16,2,False,False,True,False,False,False,True,False,False,0
+가락몰 주차장,2020,1119,2024-10-02 16:39:21,901,853,2024-10-02 07:39:29,16,2,False,False,True,False,False,False,True,False,False,0
+한화생명 서초사옥(드림플러스),128,123,2024-10-02 16:39:08,5,862,2024-10-02 07:39:43,16,2,False,False,True,False,False,False,True,False,False,0
+현대기림오피스텔,80,45,2024-10-02 16:38:39,35,863,2024-10-02 07:39:45,16,2,False,False,True,False,False,False,True,False,False,66
+오퓨런스[서초역 1번출구],122,65,2024-10-02 16:39:41,57,864,2024-10-02 07:39:47,16,2,False,False,True,False,False,False,True,False,False,0
+린스퀘어 주차장,299,157,2024-10-02 16:38:59,142,870,2024-10-02 07:39:54,16,2,False,False,True,False,False,False,True,False,False,0
+에피소드 서초 393 주차장,256,133,2024-10-02 16:30:01,123,872,2024-10-02 07:39:58,16,2,False,False,True,False,False,False,True,False,False,0
+우제빌딩 주차장,24,24,2024-10-02 16:38:42,0,874,2024-10-02 07:40:02,16,2,False,False,True,False,False,False,True,False,False,86
+GS건설 서초타워,185,86,2024-10-02 16:39:26,99,880,2024-10-02 07:40:07,16,2,False,False,True,False,False,False,True,False,False,0
+가든파이브 라이프,3752,1846,2024-10-02 16:40:05,1906,882,2024-10-02 07:40:08,16,2,False,False,True,False,False,False,True,False,False,0
+제이프러스빌딩,110,59,2024-10-02 16:40:06,51,885,2024-10-02 07:40:13,16,2,False,False,True,False,False,False,True,False,False,0
+팜모드 주차장,45,45,2024-10-02 16:40:00,0,897,2024-10-02 07:40:27,16,2,False,False,True,False,False,False,True,False,False,61
+이마트 양재점[양재시민의숲역 2호점],649,282,2024-10-02 16:40:27,367,898,2024-10-02 07:40:27,16,2,False,False,True,False,False,False,True,False,False,0
