@@ -28,5 +28,5 @@ Django 프로젝트의 URL 경로와 그 경로에 대한 처리를 정의하는
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('maps/', include('maps.urls')),
-    path('search/', include('location.urls')),
+    path('api/', include('location.urls')),
 ]
