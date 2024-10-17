@@ -41,7 +41,7 @@ def Search(search_keyword):
           if filtered_rows:
               return filtered_rows
           else:
-              return "검색 결과가 없습니다."
+              return []
   except Exception as E:
       return f"Search Error with:{E}"
 
