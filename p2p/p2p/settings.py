@@ -48,7 +48,10 @@ INSTALLED_APPS = [
     "django.contrib.staticfiles",
 
     # 생성한 앱
+    "rest_framework",
+    "location",
     'maps',
+    'corsheaders',
 ]
 
 """
@@ -64,6 +67,7 @@ MIDDLEWARE = [
     "django.contrib.auth.middleware.AuthenticationMiddleware",
     "django.contrib.messages.middleware.MessageMiddleware",
     "django.middleware.clickjacking.XFrameOptionsMiddleware",
+    'corsheaders.middleware.CorsMiddleware',
 ]
 
 ROOT_URLCONF = "p2p.urls"
@@ -154,3 +158,9 @@ STATICFILES_DIRS = [BASE_DIR / "static"]
 # https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = "django.db.models.BigAutoField"
+
+CORS_ALLOWED_ORIGINS = [
+    'http://localhost:3000',  # Next.js가 실행 중인 도메인
+    'http://127.0.0.1:3000',
+]
+
