@@ -29,4 +29,5 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('maps/', include('maps.urls')),
     path('api/', include('location.urls')),
+    path('parking/', include('parkingLot.urls')),
 ]
