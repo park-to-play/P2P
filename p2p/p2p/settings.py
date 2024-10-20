@@ -53,6 +53,7 @@ INSTALLED_APPS = [
     'maps',
     'parkingLot',
     'corsheaders',
+    'resultData'
 ]
 
 """
