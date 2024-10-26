@@ -51,7 +51,9 @@ INSTALLED_APPS = [
     "rest_framework",
     "location",
     'maps',
+    'parkingLot',
     'corsheaders',
+    'resultData'
 ]
 
 """

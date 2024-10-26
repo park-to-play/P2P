@@ -17,6 +17,8 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path, include
 
+from resultData.views import ParkingResultView
+
 
 
 """
@@ -29,4 +31,7 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('maps/', include('maps.urls')),
     path('api/', include('location.urls')),
+    path('parking/', include('parkingLot.urls')),
+    path('parkingData/', ParkingResultView.as_view(), name='parking-result'),
+
 ]
