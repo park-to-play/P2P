@@ -8,7 +8,7 @@ import time
 class getITS():
     
     def its_traffic_data():
-        its_api_key = '44b2556c865a470180ca92814d20cbf6'
+        its_api_key = '123123123123'
         its_traffic_api_url = 'https://openapi.its.go.kr:9443/trafficInfo?'
         traffic_params = {
             'apiKey' : its_api_key,

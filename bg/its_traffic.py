@@ -8,7 +8,7 @@ its_traffic_save_folder = './its_traffic'
 os.makedirs(its_traffic_save_folder, exist_ok=True)
 
 # its 교통 소통 정보보
-its_api_key = '44b2556c865a470180ca92814d20cbf6'
+its_api_key = '12312313123123'
 traffic_params = {
     'apiKey' : its_api_key,
     'type' : 'all',

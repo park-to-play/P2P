@@ -19,7 +19,7 @@ def collect_and_save_traffic_data():
 
     # API 호출 시 필요한 헤더 설정
     headers = {
-        "appKey": "5c88a4e4-0f6d-4002-9989-f9e35e5257fe",  # 변경할 것.
+        "appKey": "123123123",  # 변경할 것.
         "User-Agent": "Mozilla/5.0",
         "Accept": "*/*",
         "Accept-Encoding": "gzip, deflate, br, zstd",

@@ -36,12 +36,7 @@ def getParkingData(target_name):
             ] + [
                 (park_name, cur_parking_new, cur_parking_time) for park_name, cur_parking_new, cur_parking_time in rows_2
             ]
-
-            # 시간 필드를 기준으로 정렬 (3번째 요소가 시간)
-        combined_rows_sorted = sorted(combined_rows, key=lambda x: x[2])
-
-        # 정렬된 combined_rows 반환
-        return combined_rows_sorted if combined_rows_sorted else []
+        return combined_rows if combined_rows else []
 
   except Exception as e:
       print("Error: ",e)
