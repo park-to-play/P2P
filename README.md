@@ -1,375 +1,70 @@
-## Team Park-to-Play: P2P
-서울시 공연장 주변 주차장 추천 챗봇 프로젝트
+# Park-to-Play: P2P
+서울특별시 영등포구 주차장 예측 웹앱 서비스
 
 <br>
 
-### 소개
-서울시 내에서 공연이나 축제와 같은 문화 행사를 방문하는 사람들이 주차 문제로 인한 불편을 겪지 않도록, 효율적인 주차장 추천 시스템을 개발하여 사용자가 신속하고 편리하게 적합한 주차장을 찾을 수 있도록 도와주는 챗봇 서비스를 개발하는 프로젝트입니다.
-
-
-<br>
-
-### 멤버
-* [김관용](https://github.com/ToleranceKim)
-* [김윤일](https://github.com/yunilkim)
-* [서동옥](https://github.com/SeoDongOk)
-* [이종찬](https://github.com/qkskfka)`
-* [장준혁](https://github.com/JangJune)
-* [최준혁](https://github.com/kimbap918)
-
+## 🔖 목차
+- [서비스 소개](#서비스-소개)
+- [서비스 제작 기간](#서비스-제작-기간)
+- [멤버 및 역할](#멤버-및-역할)
+- [Tech Stack](#tech-stack)
 
 <br>
 
-## 목차 
-[requirements.txt에 저장된 환경 설치하기](#requirements.txt에-저장된-환경-설치하기)
+## 서비스 소개
+"Park to Play(P2P)"는 주차를 더 효율적이고 스마트하게 만들기 위해 시작된 프로젝트입니다. <br> 사용자는 주차 공간을 쉽게 찾고, 실시간으로 주차 상황을 확인하며, 해당 주차장의 향후 주차량 예측을 통해 주차 관련 시간을 절약할 수 있습니다. P2P는 단순한 주차 이상의 경험을 제공하며, 주차장에서의 스트레스를 줄여 더 나은 일상으로 나아갈 수 있게 돕습니다.  
 
-- [Windows에서 가상환경 생성 및 실행](#windows에서-가상환경-생성-및-실행)
-	-  [Windows에서 장고(Django) 설치 및 환경설정](#windows에서-장고django-설치-및-환경설정)
-- [MAC에서 가상환경 생성 및 실행](#mac에서-가상환경-생성-및-실행) 
-	- [MAC 장고(Django) 설치 및 환경설정](#mac-장고django-설치-및-환경설정) 
+<br>
 
+브랜드 이름인 "Park to Play"는 주차(Park)를 간편하게 처리하고, 그로 인해 확보한 시간을 여유롭게 사용(Play)하자는 의미를 담고 있습니다. 즉, 주차 문제를 해결함으로써 사용자에게 더 많은 여유와 즐거움을 제공하는 것을 목표로 하는 서비스입니다.
 
 
 <br>
 
-# Windows에서 가상환경 생성 및 실행
+## 서비스 제작 기간
 
-**cmd**에서 실행 불가 시, **Anaconda Prompt**에서 실행합니다.
-
-### 1. conda 가상환경 생성 및  파이썬 버전 확인하기
-* 여기서는 3.11.9로 통일합니다.
-* 가상환경명은 p2p-env입니다.
-
-```bash
-conda create -n <환경명> python=<버전(ex:3.5이나 3.7 등)>
-conda create -n p2p-env python=3.11.9
-```
+- 2024-09-20 ~ 2024-10-25
 
 <br>
 
-### 2. 가상 환경 실행 명령
-
-```bash
-conda activate 가상환경명
-conda activate p2p-env
-```
+## 멤버 및 역할
+<img width="100" alt="image" src="https://github.com/user-attachments/assets/67587fcf-89ee-4399-accf-07c93fae42ca">
+<img width="100" alt="image" src="https://github.com/user-attachments/assets/536c3d9a-a109-4074-94b9-348fa3707fd5">
+<img width="100" alt="image" src="https://github.com/user-attachments/assets/c98c3515-c9dc-4997-befa-032d46ed00c3">
+<img width="100" alt="image" src="https://github.com/user-attachments/assets/2f922f36-cbf9-488f-993d-160e89842a25">
+<img width="100" alt="image" src="https://github.com/user-attachments/assets/7b7d3c2b-c409-4a80-a825-72de612f7aa3">
+<img width="100" alt="image" src="https://github.com/user-attachments/assets/af5e73d5-542b-4ed1-a733-97a67b2941c3">
 
 
 <br>
-
-### 3. 가상 환경 해제 명령
-
-```bash
-conda deactivate
-```
-
 <br>
 
-## Windows에서 장고(Django) 설치 및 환경설정
-
-### 1. 가상환경 실행
-
-```bash
-conda activate [가상 환경 이름]
-conda activate p2p-env
-```
-
-<br>
-
-### 2. 가상 환경 실행 후 django를 설치할 폴더를 생성하고 cd 명령을 통해 폴더로 이동
-**주의할점 :** 현재 github의 P2P repository에는 이미 폴더가 생성 되어있어, P2P을 clone했다면 이 절차를 생략해야합니다. 다시 생성하면 안됩니다. 
-
-```bash
-mkdir [폴더명] (폴더가 생성되어 있다면 할 필요 없음)
-cd [폴더명]
-
-
-mkdir p2p
-cd p2p
-```
-
-<br>
-
-### 3. django 설치 전 pip upgrade
-
-```bash
-python3 -m pip install --upgrade pip
-```
-
-<br>
-
-### 4. django 설치
-
-```bash
-pip install django
-```
-
-<br>
-
-### 5. 설치 확인
-
-```bash
-python -m django --version
-```
-![](https://i.imgur.com/mebeugF.png)
-
-<br>
-
-### 6. 프로젝트 생성
-**주의할점 :** 현재 github의 P2P repository에는 이미 폴더가 생성 되어있어, P2P을 clone했다면 이 절차를 생략해야합니다. 다시 생성하면 안됩니다. 
-```bash
-django-admin startproject [생성할 폴더명]
-django-admin startproject p2p
-```
-
-<br>
-
-### 7. 생성한 폴더로 이동 후 서버 실행
-```bash
-python manage.py runserver
-```
-![](https://i.imgur.com/fmQsmUO.png)
-
-<br>
-
-### 완료
-해당 절차를 수행했다면 로컬 서버 `http://127.0.0.1:8000/` 실행 시, 아래와 같은 화면이 출력됩니다. 이제 Django 프로젝트를 수행할 준비가 되었습니다.
-![](https://i.imgur.com/SP8tlOI.png)
-
+- [김관용](https://github.com/ToleranceKim) : 데이터 수집, 데이터 분석, 모델링
+- [김윤일](https://github.com/yunilkim) : 데이터 수집, 데이터 분석
+- [서동옥](https://github.com/SeoDongOk) : 데이터 수집, 서비스 구현
+- [이종찬](https://github.com/qkskfka) : 데이터 수집, 서비스 구현
+- [장준혁](https://github.com/JangJune) : 데이터 수집, 데이터 분석, 모델링
+- [최준혁](https://github.com/kimbap918) : 데이터 수집, 데이터 분석, 모델링
 
 
 <br>
 
-# requirements.txt에 저장된 환경 설치하기
-
-위 과정을 마친 후 프로젝트 파일 내부에 있는 requirements.txt를 설치하여 개발환경을 동기화 시킵니다.
-
-1. 현재 설치된 패키지를 `requirements.txt`에 저장하기
-
-```bash
-pip freeze > requirements.txt
-```
-
-2. 저장된 환경을 설치하기
-
-``` bash
-pip install -r requirements.txt
-```
-
-
+## Tech Stack
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=ffffff"/> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=NumPy&logoColor=ffffff"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=ffffff"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=ffffff"/> <img src="https://img.shields.io/badge/REST framework-009688?style=flat-square&logo=Django&logoColor=ffffff"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Trello-0079BF?style=flat-square&logo=Trello&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=ffffff"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=ffffff"/>
 
 <br>
 
-# MAC에서 가상환경 생성 및 실행
+## pipeline
+<img width="770" alt="Screenshot 2024-10-28 at 5 41 53 PM" src="https://github.com/user-attachments/assets/5f193e14-f49a-4709-abb7-4ef7bd0ea8e0">
 
-* windows와 같이 **conda로 실행해도 무방**합니다.
-
-### 1. pyenv 설치 및 python 설치
-
-* pyenv 설치하기
-* pyenv는 여러 파이썬 버전을 쉽게 바꾸어 쓸 수 있게 도와줍니다.
-
-```bash
-brew install pyenv
-echo 'eval "$(pyenv init -)"' >> /.bash_profile
-```
+<img width="758" alt="Screenshot 2024-10-28 at 5 41 04 PM" src="https://github.com/user-attachments/assets/ca2bba2d-6ac7-44ad-be5e-81395b6cb5d3">
 
 <br>
 
-### 2. python 설치하기
-
-```bash
-pyenv install -list
-```
+## ERD
+![P2P-3](https://github.com/user-attachments/assets/d438f005-fbab-4694-9d69-b443a80c3342)
 
 <br>
 
-### 3. python 설치 및 설치 후 버전 확인하기
-* 여기서는 3.11.9로 통일합니다.
-
-```bash
-pyenv install 3.11.9
-pyenv versions 
-```
-![](https://i.imgur.com/pQl0VHQ.png)
-새로 설치된 3.11.9
-
-
-<br>
-
-### 4. 실제 환경에서 사용할 버전 선택하기
-
-```bash
-$ pyenv shell 3.11.9
-```
-![](https://i.imgur.com/H4kcg3G.png)
-<br>
-
-### 5. virtualenv 설치
-* 가상 환경을 생성하고 사용할 수 있도록 해줍니다.
-
-```bash
-brew install pyenv-virtualenv
-echo 'eval "$(pyenv virtualenv-init -)"' >> ~/.bash_profile
-```
-
-<br>
-
-### 6. 가상 환경 생성하기
-
-```bash
-pyenv virtualenv [파이썬 버전] [가상 환경 이름]
-pyenv virtualenv 3.11.9 p2p-env
-```
-가상환경의 이름은 임의로 생성해도 됩니다.
-
-<br>
-
-### 7. 가상 환경이 생성 되었는지 확인을 한다.
-
-```bash
-pyenv versions
-```
-![](https://i.imgur.com/SZUiWis.png)
-
-<br>
-
-### 8. 가상 환경 실행 명령
-
-```bash
-pyenv activate [가상 환경 이름]
-pyenv activate p2p-env
-```
-
-
-### 8-1. 가상 환경 실행 오류 발생 시
-![](https://i.imgur.com/Qg50M7N.png)
-만약, 위와 같은 오류가 발생한다면 다음 명령어를 따라해봅시다.
-
-
-1) 설정 파일을 열기
-``` bash
-nano ~/.bash_profile  # 또는 nano ~/.zshrc
-```
-2) 다음 내용을 추가
-```bash
-export PATH="$HOME/.pyenv/bin:$PATH" 
-eval "$(pyenv init --path)" 
-eval "$(pyenv init -)" 
-eval "$(pyenv virtualenv-init -)"
-```
-3) 변경 사항을 적용
-4) 쉘 다시 시작
-```bash
-exec "$SHELL"
-```
-5) 가상 환경 다시 활성화
-``` bash
-pyenv activate p2p-env
-```
-
-
-<br>
-
-### 9. 가상 환경 해제 명령
-
-```bash
-pyenv deactivate
-```
-
-<br>
-
-## MAC 장고(Django) 설치 및 환경설정
-
-### 1. 가상환경 실행
-
-```bash
-pyenv activate [가상 환경 이름]
-pyenv activate p2p-env
-```
-
-<br>
-
-### 2. 가상 환경 실행 후 django를 설치할 폴더를 생성하고 cd 명령을 통해 폴더로 이동
-**주의할점 :** 현재 github의 P2P repository에는 이미 폴더가 생성 되어있어, P2P을 clone했다면 이 절차를 생략해야합니다. 다시 생성하면 안됩니다. 
-
-```bash
-mkdir [폴더명] (폴더가 생성되어 있다면 할 필요 없음)
-cd [폴더명]
-
-
-mkdir p2p
-cd p2p
-```
-
-<br>
-
-### 3. django 설치 전 pip upgrade
-
-```bash
-python -m pip install --upgrade pip
-```
-
-<br>
-
-### 4. django 설치
-
-```bash
-pip install django
-```
-
-<br>
-
-### 5. 설치 확인
-
-```bash
-python -m django --version
-```
-![](https://i.imgur.com/mebeugF.png)
-
-<br>
-
-### 6. 프로젝트 생성
-**주의할점 :** 현재 github의 P2P repository에는 이미 폴더가 생성 되어있어, P2P을 clone했다면 이 절차를 생략해야합니다. 다시 생성하면 안됩니다. 
-```bash
-django-admin startproject [생성할 폴더명]
-django-admin startproject p2p
-```
-
-<br>
-
-### 7. 생성한 폴더로 이동 후서버 실행
-```bash
-python manage.py runserver
-```
-![](https://i.imgur.com/fmQsmUO.png)
-
-
-<br>
-
-### 완료
-해당 절차를 수행했다면 로컬 서버 `http://127.0.0.1:8000/` 실행 시, 아래와 같은 화면이 출력됩니다. 이제 Django프로젝트를 수행할 준비가 되었습니다.
-![](https://i.imgur.com/SP8tlOI.png)
-
-
-
-
-
-<br>
-
-# requirements.txt에 저장된 환경 설치하기
-
-위 과정을 마친 후 프로젝트 파일 내부에 있는 requirements.txt를 설치하여 개발환경을 동기화 시킵니다.
-
-1. 현재 설치된 패키지를 `requirements.txt`에 저장하기
-
-```bash
-pip freeze > requirements.txt
-```
-
-2. 저장된 환경을 설치하기
-
-``` bash
-pip install -r requirements.txt
-```
-
+## 수집 데이터
+<img width="1150" alt="Screenshot 2024-10-28 at 5 50 40 PM" src="https://github.com/user-attachments/assets/66dbddb1-83e0-42ca-b2b2-42943ca6d566">
