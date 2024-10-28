@@ -8,6 +8,9 @@
 - [서비스 제작 기간](#서비스-제작-기간)
 - [멤버 및 역할](#멤버-및-역할)
 - [Tech Stack](#tech-stack)
+- [pipeline](#pipeline)
+- [ERD](#erd)
+- [수집 데이터](#수집-데이터)
 
 <br>
 
