@@ -196,4 +196,7 @@ AutoML결과, Extra Tree Regressor가 가장 우수한 성능을 보였기에, �
 <br>
 <br>
 
+## 시연 영상
+![GIFMaker_me (1)](https://github.com/user-attachments/assets/cd365e7e-784f-45aa-889f-729be896a587)
+
 
