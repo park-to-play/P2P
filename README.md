@@ -89,17 +89,20 @@ https://youtu.be/JDg3364ZCEk
 
   <img width="770" alt="Screenshot 2024-10-28 at 5 41 53 PM" src="https://github.com/user-attachments/assets/5f193e14-f49a-4709-abb7-4ef7bd0ea8e0">
 
-  <img width="758" alt="Screenshot 2024-10-28 at 5 41 04 PM" src="https://github.com/user-attachments/assets/ca2bba2d-6ac7-44ad-be5e-81395b6cb5d3">
+  <img width="770" alt="Screenshot 2024-10-28 at 5 41 04 PM" src="https://github.com/user-attachments/assets/ca2bba2d-6ac7-44ad-be5e-81395b6cb5d3">
 
 <br>
 <br>
 
 ## 수집 데이터
 
+<b>주차장 현황 과거 데이터셋의 부재로 주제 선정 후 AWS, FireBase(백업)으로 데이터를 실시간으로 수집 및 적재</b>
+
 <img width="1150" alt="Screenshot 2024-10-28 at 5 50 40 PM" src="https://github.com/user-attachments/assets/66dbddb1-83e0-42ca-b2b2-42943ca6d566">
 
-<br>
-<br>
+- 용도지역: 주변 건물용도, 실제 이용객의 특성을 추측, 현장답사를 통해 데이터화
+  <br>
+  <br>
 
 ## 데이터 전처리
 
