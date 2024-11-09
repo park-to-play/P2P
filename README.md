@@ -12,8 +12,7 @@
 
 https://youtu.be/JDg3364ZCEk
 
-  <iframe width="600" height="400" src="https://www.youtube.com/embed/JDg3364ZCEk" 
-          frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+![GIFMaker_me (1)](https://github.com/user-attachments/assets/cd365e7e-784f-45aa-889f-729be896a587)
 
 </div>
 
@@ -26,7 +25,6 @@ https://youtu.be/JDg3364ZCEk
 - [멤버 및 역할](#멤버-및-역할)
 - [Tech Stack](#tech-stack)
 - [pipeline](#pipeline)
-- [ERD](#erd)
 - [수집 데이터](#수집-데이터)
 - [데이터 전처리](#데이터-전처리)
 - [모델링](#모델링)
@@ -87,18 +85,13 @@ https://youtu.be/JDg3364ZCEk
 
 <br>
 
-## pipeline
+## Pipeline
 
-<img width="770" alt="Screenshot 2024-10-28 at 5 41 53 PM" src="https://github.com/user-attachments/assets/5f193e14-f49a-4709-abb7-4ef7bd0ea8e0">
+  <img width="770" alt="Screenshot 2024-10-28 at 5 41 53 PM" src="https://github.com/user-attachments/assets/5f193e14-f49a-4709-abb7-4ef7bd0ea8e0">
 
-<img width="758" alt="Screenshot 2024-10-28 at 5 41 04 PM" src="https://github.com/user-attachments/assets/ca2bba2d-6ac7-44ad-be5e-81395b6cb5d3">
+  <img width="758" alt="Screenshot 2024-10-28 at 5 41 04 PM" src="https://github.com/user-attachments/assets/ca2bba2d-6ac7-44ad-be5e-81395b6cb5d3">
 
 <br>
-
-## ERD
-
-![P2P-3](https://github.com/user-attachments/assets/d438f005-fbab-4694-9d69-b443a80c3342)
-
 <br>
 
 ## 수집 데이터
@@ -171,6 +164,8 @@ LightGBM에서 Split, Gain방식을 통한 상관 관계 분석, 높은 상관 �
 
 <img width="300" height="400" alt="Screenshot 2024-10-28 at 6 38 56 PM" src="https://github.com/user-attachments/assets/6455744f-6d4c-4089-8ff7-80eb8356535b">
 
+#### Feature 예시
+
 <img width="1292" alt="image" src="https://github.com/user-attachments/assets/d41cfe1f-f49c-4bf2-a8f8-638a5c88ce13">
 
 <br>
@@ -231,6 +226,3 @@ AutoML결과, Extra Tree Regressor가 가장 우수한 성능을 보였기에, �
 
 - Extra Trees
   - Random Forest보다 성능이 좋은편이나, 대규모 데이터에서는 무작위 분할특성으로 인해 분할할 후보들이 매우 많아지는 경우 계산 비용이 증가할 수 있음을 파악
-
-<br>
-<br>
